@@ -6,677 +6,677 @@ Nerd Font - Font Awesome ~
 
 | Decimal | Unicode | Glyph |
 |--------:|--------:|:-----:|
-| 61444   | \uf004  |      |
-| 61445   | \uf005  |      |
-| 61446   | \uf006  |      |
-| 61447   | \uf007  |      |
-| 61448   | \uf008  |      |
-| 61449   | \uf009  |      |
-| 61450   | \uf00a  |      |
-| 61451   | \uf00b  |      |
-| 61452   | \uf00c  |      |
-| 61453   | \uf00d  |      |
-| 61454   | \uf00e  |      |
-| 61456   | \uf010  |      |
-| 61457   | \uf011  |      |
-| 61458   | \uf012  |      |
-| 61459   | \uf013  |      |
-| 61460   | \uf014  |      |
-| 61461   | \uf015  |      |
-| 61462   | \uf016  |      |
-| 61463   | \uf017  |      |
-| 61464   | \uf018  |      |
-| 61465   | \uf019  |      |
-| 61466   | \uf01a  |      |
-| 61467   | \uf01b  |      |
-| 61468   | \uf01c  |      |
-| 61469   | \uf01d  |      |
-| 61470   | \uf01e  |      |
-| 61473   | \uf021  |      |
-| 61474   | \uf022  |      |
-| 61475   | \uf023  |      |
-| 61476   | \uf024  |      |
-| 61477   | \uf025  |      |
-| 61478   | \uf026  |      |
-| 61479   | \uf027  |      |
-| 61480   | \uf028  |      |
-| 61481   | \uf029  |      |
-| 61482   | \uf02a  |      |
-| 61483   | \uf02b  |      |
-| 61484   | \uf02c  |      |
-| 61485   | \uf02d  |      |
-| 61486   | \uf02e  |      |
-| 61487   | \uf02f  |      |
-| 61488   | \uf030  |      |
-| 61489   | \uf031  |      |
-| 61490   | \uf032  |      |
-| 61491   | \uf033  |      |
-| 61492   | \uf034  |      |
-| 61493   | \uf035  |      |
-| 61494   | \uf036  |      |
-| 61495   | \uf037  |      |
-| 61496   | \uf038  |      |
-| 61497   | \uf039  |      |
-| 61498   | \uf03a  |      |
-| 61499   | \uf03b  |      |
-| 61500   | \uf03c  |      |
-| 61501   | \uf03d  |      |
-| 61502   | \uf03e  |      |
-| 61504   | \uf040  |      |
-| 61505   | \uf041  |      |
-| 61506   | \uf042  |      |
-| 61507   | \uf043  |      |
-| 61508   | \uf044  |      |
-| 61509   | \uf045  |      |
-| 61510   | \uf046  |      |
-| 61511   | \uf047  |      |
-| 61512   | \uf048  |      |
-| 61513   | \uf049  |      |
-| 61514   | \uf04a  |      |
-| 61515   | \uf04b  |      |
-| 61516   | \uf04c  |      |
-| 61517   | \uf04d  |      |
-| 61518   | \uf04e  |      |
-| 61520   | \uf050  |      |
-| 61521   | \uf051  |      |
-| 61522   | \uf052  |      |
-| 61523   | \uf053  |      |
-| 61524   | \uf054  |      |
-| 61525   | \uf055  |      |
-| 61526   | \uf056  |      |
-| 61527   | \uf057  |      |
-| 61528   | \uf058  |      |
-| 61529   | \uf059  |      |
-| 61530   | \uf05a  |      |
-| 61531   | \uf05b  |      |
-| 61532   | \uf05c  |      |
-| 61533   | \uf05d  |      |
-| 61534   | \uf05e  |      |
-| 61536   | \uf060  |      |
-| 61537   | \uf061  |      |
-| 61538   | \uf062  |      |
-| 61539   | \uf063  |      |
-| 61540   | \uf064  |      |
-| 61541   | \uf065  |      |
-| 61542   | \uf066  |      |
-| 61543   | \uf067  |      |
-| 61544   | \uf068  |      |
-| 61545   | \uf069  |      |
-| 61546   | \uf06a  |      |
-| 61547   | \uf06b  |      |
-| 61548   | \uf06c  |      |
-| 61549   | \uf06d  |      |
-| 61550   | \uf06e  |      |
-| 61552   | \uf070  |      |
-| 61553   | \uf071  |      |
-| 61554   | \uf072  |      |
-| 61555   | \uf073  |      |
-| 61556   | \uf074  |      |
-| 61557   | \uf075  |      |
-| 61558   | \uf076  |      |
-| 61559   | \uf077  |      |
-| 61560   | \uf078  |      |
-| 61561   | \uf079  |      |
-| 61562   | \uf07a  |      |
-| 61563   | \uf07b  |      |
-| 61564   | \uf07c  |      |
-| 61565   | \uf07d  |      |
-| 61566   | \uf07e  |      |
-| 61568   | \uf080  |      |
-| 61569   | \uf081  |      |
-| 61570   | \uf082  |      |
-| 61571   | \uf083  |      |
-| 61572   | \uf084  |      |
-| 61573   | \uf085  |      |
-| 61574   | \uf086  |      |
-| 61575   | \uf087  |      |
-| 61576   | \uf088  |      |
-| 61577   | \uf089  |      |
-| 61578   | \uf08a  |      |
-| 61579   | \uf08b  |      |
-| 61580   | \uf08c  |      |
-| 61581   | \uf08d  |      |
-| 61582   | \uf08e  |      |
-| 61584   | \uf090  |      |
-| 61585   | \uf091  |      |
-| 61586   | \uf092  |      |
-| 61587   | \uf093  |      |
-| 61588   | \uf094  |      |
-| 61589   | \uf095  |      |
-| 61590   | \uf096  |      |
-| 61591   | \uf097  |      |
-| 61592   | \uf098  |      |
-| 61593   | \uf099  |      |
-| 61594   | \uf09a  |      |
-| 61595   | \uf09b  |      |
-| 61596   | \uf09c  |      |
-| 61597   | \uf09d  |      |
-| 61598   | \uf09e  |      |
-| 61600   | \uf0a0  |      |
-| 61601   | \uf0a1  |      |
-| 61602   | \uf0a2  |      |
-| 61603   | \uf0a3  |      |
-| 61604   | \uf0a4  |      |
-| 61605   | \uf0a5  |      |
-| 61606   | \uf0a6  |      |
-| 61607   | \uf0a7  |      |
-| 61608   | \uf0a8  |      |
-| 61609   | \uf0a9  |      |
-| 61610   | \uf0aa  |      |
-| 61611   | \uf0ab  |      |
-| 61612   | \uf0ac  |      |
-| 61613   | \uf0ad  |      |
-| 61614   | \uf0ae  |      |
-| 61616   | \uf0b0  |      |
-| 61617   | \uf0b1  |      |
-| 61618   | \uf0b2  |      |
-| 61632   | \uf0c0  |      |
-| 61633   | \uf0c1  |      |
-| 61634   | \uf0c2  |      |
-| 61635   | \uf0c3  |      |
-| 61636   | \uf0c4  |      |
-| 61637   | \uf0c5  |      |
-| 61638   | \uf0c6  |      |
-| 61639   | \uf0c7  |      |
-| 61640   | \uf0c8  |      |
-| 61641   | \uf0c9  |      |
-| 61642   | \uf0ca  |      |
-| 61643   | \uf0cb  |      |
-| 61644   | \uf0cc  |      |
-| 61645   | \uf0cd  |      |
-| 61646   | \uf0ce  |      |
-| 61648   | \uf0d0  |      |
-| 61649   | \uf0d1  |      |
-| 61650   | \uf0d2  |      |
-| 61651   | \uf0d3  |      |
-| 61652   | \uf0d4  |      |
-| 61653   | \uf0d5  |      |
-| 61654   | \uf0d6  |      |
-| 61655   | \uf0d7  |      |
-| 61656   | \uf0d8  |      |
-| 61657   | \uf0d9  |      |
-| 61658   | \uf0da  |      |
-| 61659   | \uf0db  |      |
-| 61660   | \uf0dc  |      |
-| 61661   | \uf0dd  |      |
-| 61662   | \uf0de  |      |
-| 61664   | \uf0e0  |      |
-| 61665   | \uf0e1  |      |
-| 61666   | \uf0e2  |      |
-| 61667   | \uf0e3  |      |
-| 61668   | \uf0e4  |      |
-| 61669   | \uf0e5  |      |
-| 61670   | \uf0e6  |      |
-| 61671   | \uf0e7  |      |
-| 61672   | \uf0e8  |      |
-| 61673   | \uf0e9  |      |
-| 61674   | \uf0ea  |      |
-| 61675   | \uf0eb  |      |
-| 61676   | \uf0ec  |      |
-| 61677   | \uf0ed  |      |
-| 61678   | \uf0ee  |      |
-| 61680   | \uf0f0  |      |
-| 61681   | \uf0f1  |      |
-| 61682   | \uf0f2  |      |
-| 61683   | \uf0f3  |      |
-| 61684   | \uf0f4  |      |
-| 61685   | \uf0f5  |      |
-| 61686   | \uf0f6  |      |
-| 61687   | \uf0f7  |      |
-| 61688   | \uf0f8  |      |
-| 61689   | \uf0f9  |      |
-| 61690   | \uf0fa  |      |
-| 61691   | \uf0fb  |      |
-| 61692   | \uf0fc  |      |
-| 61693   | \uf0fd  |      |
-| 61694   | \uf0fe  |      |
-| 61696   | \uf100  |      |
-| 61697   | \uf101  |      |
-| 61698   | \uf102  |      |
-| 61699   | \uf103  |      |
-| 61700   | \uf104  |      |
-| 61701   | \uf105  |      |
-| 61702   | \uf106  |      |
-| 61703   | \uf107  |      |
-| 61704   | \uf108  |      |
-| 61705   | \uf109  |      |
-| 61706   | \uf10a  |      |
-| 61707   | \uf10b  |      |
-| 61708   | \uf10c  |      |
-| 61709   | \uf10d  |      |
-| 61710   | \uf10e  |      |
-| 61712   | \uf110  |      |
-| 61713   | \uf111  |      |
-| 61714   | \uf112  |      |
-| 61715   | \uf113  |      |
-| 61716   | \uf114  |      |
-| 61717   | \uf115  |      |
-| 61720   | \uf118  |      |
-| 61721   | \uf119  |      |
-| 61722   | \uf11a  |      |
-| 61723   | \uf11b  |      |
-| 61724   | \uf11c  |      |
-| 61725   | \uf11d  |      |
-| 61726   | \uf11e  |      |
-| 61728   | \uf120  |      |
-| 61729   | \uf121  |      |
-| 61730   | \uf122  |      |
-| 61731   | \uf123  |      |
-| 61732   | \uf124  |      |
-| 61733   | \uf125  |      |
-| 61734   | \uf126  |      |
-| 61735   | \uf127  |      |
-| 61736   | \uf128  |      |
-| 61737   | \uf129  |      |
-| 61738   | \uf12a  |      |
-| 61739   | \uf12b  |      |
-| 61740   | \uf12c  |      |
-| 61741   | \uf12d  |      |
-| 61742   | \uf12e  |      |
-| 61744   | \uf130  |      |
-| 61745   | \uf131  |      |
-| 61746   | \uf132  |      |
-| 61747   | \uf133  |      |
-| 61748   | \uf134  |      |
-| 61749   | \uf135  |      |
-| 61750   | \uf136  |      |
-| 61751   | \uf137  |      |
-| 61752   | \uf138  |      |
-| 61753   | \uf139  |      |
-| 61754   | \uf13a  |      |
-| 61755   | \uf13b  |      |
-| 61756   | \uf13c  |      |
-| 61757   | \uf13d  |      |
-| 61758   | \uf13e  |      |
-| 61760   | \uf140  |      |
-| 61761   | \uf141  |      |
-| 61762   | \uf142  |      |
-| 61763   | \uf143  |      |
-| 61764   | \uf144  |      |
-| 61765   | \uf145  |      |
-| 61766   | \uf146  |      |
-| 61767   | \uf147  |      |
-| 61768   | \uf148  |      |
-| 61769   | \uf149  |      |
-| 61770   | \uf14a  |      |
-| 61771   | \uf14b  |      |
-| 61772   | \uf14c  |      |
-| 61773   | \uf14d  |      |
-| 61774   | \uf14e  |      |
-| 61776   | \uf150  |      |
-| 61777   | \uf151  |      |
-| 61778   | \uf152  |      |
-| 61779   | \uf153  |      |
-| 61780   | \uf154  |      |
-| 61781   | \uf155  |      |
-| 61782   | \uf156  |      |
-| 61783   | \uf157  |      |
-| 61784   | \uf158  |      |
-| 61785   | \uf159  |      |
-| 61786   | \uf15a  |      |
-| 61787   | \uf15b  |      |
-| 61788   | \uf15c  |      |
-| 61789   | \uf15d  |      |
-| 61790   | \uf15e  |      |
-| 61792   | \uf160  |      |
-| 61793   | \uf161  |      |
-| 61794   | \uf162  |      |
-| 61795   | \uf163  |      |
-| 61796   | \uf164  |      |
-| 61797   | \uf165  |      |
-| 61798   | \uf166  |      |
-| 61799   | \uf167  |      |
-| 61800   | \uf168  |      |
-| 61801   | \uf169  |      |
-| 61802   | \uf16a  |      |
-| 61803   | \uf16b  |      |
-| 61804   | \uf16c  |      |
-| 61805   | \uf16d  |      |
-| 61806   | \uf16e  |      |
-| 61808   | \uf170  |      |
-| 61809   | \uf171  |      |
-| 61810   | \uf172  |      |
-| 61811   | \uf173  |      |
-| 61812   | \uf174  |      |
-| 61813   | \uf175  |      |
-| 61814   | \uf176  |      |
-| 61815   | \uf177  |      |
-| 61816   | \uf178  |      |
-| 61817   | \uf179  |      |
-| 61818   | \uf17a  |      |
-| 61819   | \uf17b  |      |
-| 61820   | \uf17c  |      |
-| 61821   | \uf17d  |      |
-| 61822   | \uf17e  |      |
-| 61824   | \uf180  |      |
-| 61825   | \uf181  |      |
-| 61826   | \uf182  |      |
-| 61827   | \uf183  |      |
-| 61828   | \uf184  |      |
-| 61829   | \uf185  |      |
-| 61830   | \uf186  |      |
-| 61831   | \uf187  |      |
-| 61832   | \uf188  |      |
-| 61833   | \uf189  |      |
-| 61834   | \uf18a  |      |
-| 61835   | \uf18b  |      |
-| 61836   | \uf18c  |      |
-| 61837   | \uf18d  |      |
-| 61838   | \uf18e  |      |
-| 61840   | \uf190  |      |
-| 61841   | \uf191  |      |
-| 61842   | \uf192  |      |
-| 61843   | \uf193  |      |
-| 61844   | \uf194  |      |
-| 61845   | \uf195  |      |
-| 61846   | \uf196  |      |
-| 61847   | \uf197  |      |
-| 61848   | \uf198  |      |
-| 61849   | \uf199  |      |
-| 61850   | \uf19a  |      |
-| 61851   | \uf19b  |      |
-| 61852   | \uf19c  |      |
-| 61853   | \uf19d  |      |
-| 61854   | \uf19e  |      |
-| 61856   | \uf1a0  |      |
-| 61857   | \uf1a1  |      |
-| 61858   | \uf1a2  |      |
-| 61859   | \uf1a3  |      |
-| 61860   | \uf1a4  |      |
-| 61861   | \uf1a5  |      |
-| 61862   | \uf1a6  |      |
-| 61863   | \uf1a7  |      |
-| 61864   | \uf1a8  |      |
-| 61865   | \uf1a9  |      |
-| 61866   | \uf1aa  |      |
-| 61867   | \uf1ab  |      |
-| 61868   | \uf1ac  |      |
-| 61869   | \uf1ad  |      |
-| 61870   | \uf1ae  |      |
-| 61872   | \uf1b0  |      |
-| 61873   | \uf1b1  |      |
-| 61874   | \uf1b2  |      |
-| 61875   | \uf1b3  |      |
-| 61876   | \uf1b4  |      |
-| 61877   | \uf1b5  |      |
-| 61878   | \uf1b6  |      |
-| 61879   | \uf1b7  |      |
-| 61880   | \uf1b8  |      |
-| 61881   | \uf1b9  |      |
-| 61882   | \uf1ba  |      |
-| 61883   | \uf1bb  |      |
-| 61884   | \uf1bc  |      |
-| 61885   | \uf1bd  |      |
-| 61886   | \uf1be  |      |
-| 61888   | \uf1c0  |      |
-| 61889   | \uf1c1  |      |
-| 61890   | \uf1c2  |      |
-| 61891   | \uf1c3  |      |
-| 61892   | \uf1c4  |      |
-| 61893   | \uf1c5  |      |
-| 61894   | \uf1c6  |      |
-| 61895   | \uf1c7  |      |
-| 61896   | \uf1c8  |      |
-| 61897   | \uf1c9  |      |
-| 61898   | \uf1ca  |      |
-| 61899   | \uf1cb  |      |
-| 61900   | \uf1cc  |      |
-| 61901   | \uf1cd  |      |
-| 61902   | \uf1ce  |      |
-| 61904   | \uf1d0  |      |
-| 61905   | \uf1d1  |      |
-| 61906   | \uf1d2  |      |
-| 61907   | \uf1d3  |      |
-| 61908   | \uf1d4  |      |
-| 61909   | \uf1d5  |      |
-| 61910   | \uf1d6  |      |
-| 61911   | \uf1d7  |      |
-| 61912   | \uf1d8  |      |
-| 61913   | \uf1d9  |      |
-| 61914   | \uf1da  |      |
-| 61915   | \uf1db  |      |
-| 61916   | \uf1dc  |      |
-| 61917   | \uf1dd  |      |
-| 61918   | \uf1de  |      |
-| 61920   | \uf1e0  |      |
-| 61921   | \uf1e1  |      |
-| 61922   | \uf1e2  |      |
-| 61923   | \uf1e3  |      |
-| 61924   | \uf1e4  |      |
-| 61925   | \uf1e5  |      |
-| 61926   | \uf1e6  |      |
-| 61927   | \uf1e7  |      |
-| 61928   | \uf1e8  |      |
-| 61929   | \uf1e9  |      |
-| 61930   | \uf1ea  |      |
-| 61931   | \uf1eb  |      |
-| 61932   | \uf1ec  |      |
-| 61933   | \uf1ed  |      |
-| 61934   | \uf1ee  |      |
-| 61936   | \uf1f0  |      |
-| 61937   | \uf1f1  |      |
-| 61938   | \uf1f2  |      |
-| 61939   | \uf1f3  |      |
-| 61940   | \uf1f4  |      |
-| 61941   | \uf1f5  |      |
-| 61942   | \uf1f6  |      |
-| 61943   | \uf1f7  |      |
-| 61944   | \uf1f8  |      |
-| 61945   | \uf1f9  |      |
-| 61946   | \uf1fa  |      |
-| 61947   | \uf1fb  |      |
-| 61948   | \uf1fc  |      |
-| 61949   | \uf1fd  |      |
-| 61950   | \uf1fe  |      |
-| 61951   | \uf1ff  |      |
-| 61952   | \uf200  |      |
-| 61953   | \uf201  |      |
-| 61954   | \uf202  |      |
-| 61955   | \uf203  |      |
-| 61956   | \uf204  |      |
-| 61957   | \uf205  |      |
-| 61958   | \uf206  |      |
-| 61959   | \uf207  |      |
-| 61960   | \uf208  |      |
-| 61961   | \uf209  |      |
-| 61962   | \uf20a  |      |
-| 61963   | \uf20b  |      |
-| 61964   | \uf20c  |      |
-| 61965   | \uf20d  |      |
-| 61966   | \uf20e  |      |
-| 61968   | \uf210  |      |
-| 61969   | \uf211  |      |
-| 61970   | \uf212  |      |
-| 61971   | \uf213  |      |
-| 61972   | \uf214  |      |
-| 61973   | \uf215  |      |
-| 61974   | \uf216  |      |
-| 61975   | \uf217  |      |
-| 61976   | \uf218  |      |
-| 61977   | \uf219  |      |
-| 61978   | \uf21a  |      |
-| 61979   | \uf21b  |      |
-| 61980   | \uf21c  |      |
-| 61981   | \uf21d  |      |
-| 61982   | \uf21e  |      |
-| 61985   | \uf221  |      |
-| 61986   | \uf222  |      |
-| 61987   | \uf223  |      |
-| 61988   | \uf224  |      |
-| 61989   | \uf225  |      |
-| 61990   | \uf226  |      |
-| 61991   | \uf227  |      |
-| 61992   | \uf228  |      |
-| 61993   | \uf229  |      |
-| 61994   | \uf22a  |      |
-| 61995   | \uf22b  |      |
-| 61996   | \uf22c  |      |
-| 61997   | \uf22d  |      |
-| 62000   | \uf230  |      |
-| 62001   | \uf231  |      |
-| 62002   | \uf232  |      |
-| 62003   | \uf233  |      |
-| 62004   | \uf234  |      |
-| 62005   | \uf235  |      |
-| 62006   | \uf236  |      |
-| 62007   | \uf237  |      |
-| 62008   | \uf238  |      |
-| 62009   | \uf239  |      |
-| 62010   | \uf23a  |      |
-| 62011   | \uf23b  |      |
-| 62012   | \uf23c  |      |
-| 62013   | \uf23d  |      |
-| 62014   | \uf23e  |      |
-| 62016   | \uf240  |      |
-| 62017   | \uf241  |      |
-| 62018   | \uf242  |      |
-| 62019   | \uf243  |      |
-| 62020   | \uf244  |      |
-| 62021   | \uf245  |      |
-| 62022   | \uf246  |      |
-| 62023   | \uf247  |      |
-| 62024   | \uf248  |      |
-| 62025   | \uf249  |      |
-| 62026   | \uf24a  |      |
-| 62027   | \uf24b  |      |
-| 62028   | \uf24c  |      |
-| 62029   | \uf24d  |      |
-| 62030   | \uf24e  |      |
-| 62032   | \uf250  |      |
-| 62033   | \uf251  |      |
-| 62034   | \uf252  |      |
-| 62035   | \uf253  |      |
-| 62036   | \uf254  |      |
-| 62037   | \uf255  |      |
-| 62038   | \uf256  |      |
-| 62039   | \uf257  |      |
-| 62040   | \uf258  |      |
-| 62041   | \uf259  |      |
-| 62042   | \uf25a  |      |
-| 62043   | \uf25b  |      |
-| 62044   | \uf25c  |      |
-| 62045   | \uf25d  |      |
-| 62046   | \uf25e  |      |
-| 62048   | \uf260  |      |
-| 62049   | \uf261  |      |
-| 62050   | \uf262  |      |
-| 62051   | \uf263  |      |
-| 62052   | \uf264  |      |
-| 62053   | \uf265  |      |
-| 62054   | \uf266  |      |
-| 62055   | \uf267  |      |
-| 62056   | \uf268  |      |
-| 62057   | \uf269  |      |
-| 62058   | \uf26a  |      |
-| 62059   | \uf26b  |      |
-| 62060   | \uf26c  |      |
-| 62061   | \uf26d  |      |
-| 62062   | \uf26e  |      |
-| 62064   | \uf270  |      |
-| 62065   | \uf271  |      |
-| 62066   | \uf272  |      |
-| 62067   | \uf273  |      |
-| 62068   | \uf274  |      |
-| 62069   | \uf275  |      |
-| 62070   | \uf276  |      |
-| 62071   | \uf277  |      |
-| 62072   | \uf278  |      |
-| 62073   | \uf279  |      |
-| 62074   | \uf27a  |      |
-| 62075   | \uf27b  |      |
-| 62076   | \uf27c  |      |
-| 62077   | \uf27d  |      |
-| 62078   | \uf27e  |      |
-| 62080   | \uf280  |      |
-| 62081   | \uf281  |      |
-| 62082   | \uf282  |      |
-| 62083   | \uf283  |      |
-| 62084   | \uf284  |      |
-| 62085   | \uf285  |      |
-| 62086   | \uf286  |      |
-| 62087   | \uf287  |      |
-| 62088   | \uf288  |      |
-| 62089   | \uf289  |      |
-| 62090   | \uf28a  |      |
-| 62091   | \uf28b  |      |
-| 62092   | \uf28c  |      |
-| 62093   | \uf28d  |      |
-| 62094   | \uf28e  |      |
-| 62096   | \uf290  |      |
-| 62097   | \uf291  |      |
-| 62098   | \uf292  |      |
-| 62099   | \uf293  |      |
-| 62100   | \uf294  |      |
-| 62101   | \uf295  |      |
-| 62102   | \uf296  |      |
-| 62103   | \uf297  |      |
-| 62104   | \uf298  |      |
-| 62105   | \uf299  |      |
-| 62106   | \uf29a  |      |
-| 62107   | \uf29b  |      |
-| 62108   | \uf29c  |      |
-| 62109   | \uf29d  |      |
-| 62110   | \uf29e  |      |
-| 62112   | \uf2a0  |      |
-| 62113   | \uf2a1  |      |
-| 62114   | \uf2a2  |      |
-| 62115   | \uf2a3  |      |
-| 62116   | \uf2a4  |      |
-| 62117   | \uf2a5  |      |
-| 62118   | \uf2a6  |      |
-| 62119   | \uf2a7  |      |
-| 62120   | \uf2a8  |      |
-| 62121   | \uf2a9  |      |
-| 62122   | \uf2aa  |      |
-| 62123   | \uf2ab  |      |
-| 62124   | \uf2ac  |      |
-| 62125   | \uf2ad  |      |
-| 62126   | \uf2ae  |      |
-| 62128   | \uf2b0  |      |
-| 62129   | \uf2b1  |      |
-| 62130   | \uf2b2  |      |
-| 62131   | \uf2b3  |      |
-| 62132   | \uf2b4  |      |
-| 62133   | \uf2b5  |      |
-| 62134   | \uf2b6  |      |
-| 62135   | \uf2b7  |      |
-| 62136   | \uf2b8  |      |
-| 62137   | \uf2b9  |      |
-| 62138   | \uf2ba  |      |
-| 62139   | \uf2bb  |      |
-| 62140   | \uf2bc  |      |
-| 62141   | \uf2bd  |      |
-| 62142   | \uf2be  |      |
-| 62144   | \uf2c0  |      |
-| 62145   | \uf2c1  |      |
-| 62146   | \uf2c2  |      |
-| 62147   | \uf2c3  |      |
-| 62148   | \uf2c4  |      |
-| 62149   | \uf2c5  |      |
-| 62150   | \uf2c6  |      |
-| 62151   | \uf2c7  |      |
-| 62152   | \uf2c8  |      |
-| 62153   | \uf2c9  |      |
-| 62154   | \uf2ca  |      |
-| 62155   | \uf2cb  |      |
-| 62156   | \uf2cc  |      |
-| 62157   | \uf2cd  |      |
-| 62158   | \uf2ce  |      |
-| 62160   | \uf2d0  |      |
-| 62161   | \uf2d1  |      |
-| 62162   | \uf2d2  |      |
-| 62163   | \uf2d3  |      |
-| 62164   | \uf2d4  |      |
-| 62165   | \uf2d5  |      |
-| 62166   | \uf2d6  |      |
-| 62167   | \uf2d7  |      |
-| 62168   | \uf2d8  |      |
-| 62169   | \uf2d9  |      |
-| 62170   | \uf2da  |      |
-| 62171   | \uf2db  |      |
-| 62172   | \uf2dc  |      |
-| 62173   | \uf2dd  |      |
-| 62174   | \uf2de  |      |
-| 62176   | \uf2e0  |      |
+| 61444   | \uf004  |      | *nerdfont-61444* *nerdfont-uf004* *nerdfont-*
+| 61445   | \uf005  |      | *nerdfont-61445* *nerdfont-uf005* *nerdfont-*
+| 61446   | \uf006  |      | *nerdfont-61446* *nerdfont-uf006* *nerdfont-*
+| 61447   | \uf007  |      | *nerdfont-61447* *nerdfont-uf007* *nerdfont-*
+| 61448   | \uf008  |      | *nerdfont-61448* *nerdfont-uf008* *nerdfont-*
+| 61449   | \uf009  |      | *nerdfont-61449* *nerdfont-uf009* *nerdfont-*
+| 61450   | \uf00a  |      | *nerdfont-61450* *nerdfont-uf00a* *nerdfont-*
+| 61451   | \uf00b  |      | *nerdfont-61451* *nerdfont-uf00b* *nerdfont-*
+| 61452   | \uf00c  |      | *nerdfont-61452* *nerdfont-uf00c* *nerdfont-*
+| 61453   | \uf00d  |      | *nerdfont-61453* *nerdfont-uf00d* *nerdfont-*
+| 61454   | \uf00e  |      | *nerdfont-61454* *nerdfont-uf00e* *nerdfont-*
+| 61456   | \uf010  |      | *nerdfont-61456* *nerdfont-uf010* *nerdfont-*
+| 61457   | \uf011  |      | *nerdfont-61457* *nerdfont-uf011* *nerdfont-*
+| 61458   | \uf012  |      | *nerdfont-61458* *nerdfont-uf012* *nerdfont-*
+| 61459   | \uf013  |      | *nerdfont-61459* *nerdfont-uf013* *nerdfont-*
+| 61460   | \uf014  |      | *nerdfont-61460* *nerdfont-uf014* *nerdfont-*
+| 61461   | \uf015  |      | *nerdfont-61461* *nerdfont-uf015* *nerdfont-*
+| 61462   | \uf016  |      | *nerdfont-61462* *nerdfont-uf016* *nerdfont-*
+| 61463   | \uf017  |      | *nerdfont-61463* *nerdfont-uf017* *nerdfont-*
+| 61464   | \uf018  |      | *nerdfont-61464* *nerdfont-uf018* *nerdfont-*
+| 61465   | \uf019  |      | *nerdfont-61465* *nerdfont-uf019* *nerdfont-*
+| 61466   | \uf01a  |      | *nerdfont-61466* *nerdfont-uf01a* *nerdfont-*
+| 61467   | \uf01b  |      | *nerdfont-61467* *nerdfont-uf01b* *nerdfont-*
+| 61468   | \uf01c  |      | *nerdfont-61468* *nerdfont-uf01c* *nerdfont-*
+| 61469   | \uf01d  |      | *nerdfont-61469* *nerdfont-uf01d* *nerdfont-*
+| 61470   | \uf01e  |      | *nerdfont-61470* *nerdfont-uf01e* *nerdfont-*
+| 61473   | \uf021  |      | *nerdfont-61473* *nerdfont-uf021* *nerdfont-*
+| 61474   | \uf022  |      | *nerdfont-61474* *nerdfont-uf022* *nerdfont-*
+| 61475   | \uf023  |      | *nerdfont-61475* *nerdfont-uf023* *nerdfont-*
+| 61476   | \uf024  |      | *nerdfont-61476* *nerdfont-uf024* *nerdfont-*
+| 61477   | \uf025  |      | *nerdfont-61477* *nerdfont-uf025* *nerdfont-*
+| 61478   | \uf026  |      | *nerdfont-61478* *nerdfont-uf026* *nerdfont-*
+| 61479   | \uf027  |      | *nerdfont-61479* *nerdfont-uf027* *nerdfont-*
+| 61480   | \uf028  |      | *nerdfont-61480* *nerdfont-uf028* *nerdfont-*
+| 61481   | \uf029  |      | *nerdfont-61481* *nerdfont-uf029* *nerdfont-*
+| 61482   | \uf02a  |      | *nerdfont-61482* *nerdfont-uf02a* *nerdfont-*
+| 61483   | \uf02b  |      | *nerdfont-61483* *nerdfont-uf02b* *nerdfont-*
+| 61484   | \uf02c  |      | *nerdfont-61484* *nerdfont-uf02c* *nerdfont-*
+| 61485   | \uf02d  |      | *nerdfont-61485* *nerdfont-uf02d* *nerdfont-*
+| 61486   | \uf02e  |      | *nerdfont-61486* *nerdfont-uf02e* *nerdfont-*
+| 61487   | \uf02f  |      | *nerdfont-61487* *nerdfont-uf02f* *nerdfont-*
+| 61488   | \uf030  |      | *nerdfont-61488* *nerdfont-uf030* *nerdfont-*
+| 61489   | \uf031  |      | *nerdfont-61489* *nerdfont-uf031* *nerdfont-*
+| 61490   | \uf032  |      | *nerdfont-61490* *nerdfont-uf032* *nerdfont-*
+| 61491   | \uf033  |      | *nerdfont-61491* *nerdfont-uf033* *nerdfont-*
+| 61492   | \uf034  |      | *nerdfont-61492* *nerdfont-uf034* *nerdfont-*
+| 61493   | \uf035  |      | *nerdfont-61493* *nerdfont-uf035* *nerdfont-*
+| 61494   | \uf036  |      | *nerdfont-61494* *nerdfont-uf036* *nerdfont-*
+| 61495   | \uf037  |      | *nerdfont-61495* *nerdfont-uf037* *nerdfont-*
+| 61496   | \uf038  |      | *nerdfont-61496* *nerdfont-uf038* *nerdfont-*
+| 61497   | \uf039  |      | *nerdfont-61497* *nerdfont-uf039* *nerdfont-*
+| 61498   | \uf03a  |      | *nerdfont-61498* *nerdfont-uf03a* *nerdfont-*
+| 61499   | \uf03b  |      | *nerdfont-61499* *nerdfont-uf03b* *nerdfont-*
+| 61500   | \uf03c  |      | *nerdfont-61500* *nerdfont-uf03c* *nerdfont-*
+| 61501   | \uf03d  |      | *nerdfont-61501* *nerdfont-uf03d* *nerdfont-*
+| 61502   | \uf03e  |      | *nerdfont-61502* *nerdfont-uf03e* *nerdfont-*
+| 61504   | \uf040  |      | *nerdfont-61504* *nerdfont-uf040* *nerdfont-*
+| 61505   | \uf041  |      | *nerdfont-61505* *nerdfont-uf041* *nerdfont-*
+| 61506   | \uf042  |      | *nerdfont-61506* *nerdfont-uf042* *nerdfont-*
+| 61507   | \uf043  |      | *nerdfont-61507* *nerdfont-uf043* *nerdfont-*
+| 61508   | \uf044  |      | *nerdfont-61508* *nerdfont-uf044* *nerdfont-*
+| 61509   | \uf045  |      | *nerdfont-61509* *nerdfont-uf045* *nerdfont-*
+| 61510   | \uf046  |      | *nerdfont-61510* *nerdfont-uf046* *nerdfont-*
+| 61511   | \uf047  |      | *nerdfont-61511* *nerdfont-uf047* *nerdfont-*
+| 61512   | \uf048  |      | *nerdfont-61512* *nerdfont-uf048* *nerdfont-*
+| 61513   | \uf049  |      | *nerdfont-61513* *nerdfont-uf049* *nerdfont-*
+| 61514   | \uf04a  |      | *nerdfont-61514* *nerdfont-uf04a* *nerdfont-*
+| 61515   | \uf04b  |      | *nerdfont-61515* *nerdfont-uf04b* *nerdfont-*
+| 61516   | \uf04c  |      | *nerdfont-61516* *nerdfont-uf04c* *nerdfont-*
+| 61517   | \uf04d  |      | *nerdfont-61517* *nerdfont-uf04d* *nerdfont-*
+| 61518   | \uf04e  |      | *nerdfont-61518* *nerdfont-uf04e* *nerdfont-*
+| 61520   | \uf050  |      | *nerdfont-61520* *nerdfont-uf050* *nerdfont-*
+| 61521   | \uf051  |      | *nerdfont-61521* *nerdfont-uf051* *nerdfont-*
+| 61522   | \uf052  |      | *nerdfont-61522* *nerdfont-uf052* *nerdfont-*
+| 61523   | \uf053  |      | *nerdfont-61523* *nerdfont-uf053* *nerdfont-*
+| 61524   | \uf054  |      | *nerdfont-61524* *nerdfont-uf054* *nerdfont-*
+| 61525   | \uf055  |      | *nerdfont-61525* *nerdfont-uf055* *nerdfont-*
+| 61526   | \uf056  |      | *nerdfont-61526* *nerdfont-uf056* *nerdfont-*
+| 61527   | \uf057  |      | *nerdfont-61527* *nerdfont-uf057* *nerdfont-*
+| 61528   | \uf058  |      | *nerdfont-61528* *nerdfont-uf058* *nerdfont-*
+| 61529   | \uf059  |      | *nerdfont-61529* *nerdfont-uf059* *nerdfont-*
+| 61530   | \uf05a  |      | *nerdfont-61530* *nerdfont-uf05a* *nerdfont-*
+| 61531   | \uf05b  |      | *nerdfont-61531* *nerdfont-uf05b* *nerdfont-*
+| 61532   | \uf05c  |      | *nerdfont-61532* *nerdfont-uf05c* *nerdfont-*
+| 61533   | \uf05d  |      | *nerdfont-61533* *nerdfont-uf05d* *nerdfont-*
+| 61534   | \uf05e  |      | *nerdfont-61534* *nerdfont-uf05e* *nerdfont-*
+| 61536   | \uf060  |      | *nerdfont-61536* *nerdfont-uf060* *nerdfont-*
+| 61537   | \uf061  |      | *nerdfont-61537* *nerdfont-uf061* *nerdfont-*
+| 61538   | \uf062  |      | *nerdfont-61538* *nerdfont-uf062* *nerdfont-*
+| 61539   | \uf063  |      | *nerdfont-61539* *nerdfont-uf063* *nerdfont-*
+| 61540   | \uf064  |      | *nerdfont-61540* *nerdfont-uf064* *nerdfont-*
+| 61541   | \uf065  |      | *nerdfont-61541* *nerdfont-uf065* *nerdfont-*
+| 61542   | \uf066  |      | *nerdfont-61542* *nerdfont-uf066* *nerdfont-*
+| 61543   | \uf067  |      | *nerdfont-61543* *nerdfont-uf067* *nerdfont-*
+| 61544   | \uf068  |      | *nerdfont-61544* *nerdfont-uf068* *nerdfont-*
+| 61545   | \uf069  |      | *nerdfont-61545* *nerdfont-uf069* *nerdfont-*
+| 61546   | \uf06a  |      | *nerdfont-61546* *nerdfont-uf06a* *nerdfont-*
+| 61547   | \uf06b  |      | *nerdfont-61547* *nerdfont-uf06b* *nerdfont-*
+| 61548   | \uf06c  |      | *nerdfont-61548* *nerdfont-uf06c* *nerdfont-*
+| 61549   | \uf06d  |      | *nerdfont-61549* *nerdfont-uf06d* *nerdfont-*
+| 61550   | \uf06e  |      | *nerdfont-61550* *nerdfont-uf06e* *nerdfont-*
+| 61552   | \uf070  |      | *nerdfont-61552* *nerdfont-uf070* *nerdfont-*
+| 61553   | \uf071  |      | *nerdfont-61553* *nerdfont-uf071* *nerdfont-*
+| 61554   | \uf072  |      | *nerdfont-61554* *nerdfont-uf072* *nerdfont-*
+| 61555   | \uf073  |      | *nerdfont-61555* *nerdfont-uf073* *nerdfont-*
+| 61556   | \uf074  |      | *nerdfont-61556* *nerdfont-uf074* *nerdfont-*
+| 61557   | \uf075  |      | *nerdfont-61557* *nerdfont-uf075* *nerdfont-*
+| 61558   | \uf076  |      | *nerdfont-61558* *nerdfont-uf076* *nerdfont-*
+| 61559   | \uf077  |      | *nerdfont-61559* *nerdfont-uf077* *nerdfont-*
+| 61560   | \uf078  |      | *nerdfont-61560* *nerdfont-uf078* *nerdfont-*
+| 61561   | \uf079  |      | *nerdfont-61561* *nerdfont-uf079* *nerdfont-*
+| 61562   | \uf07a  |      | *nerdfont-61562* *nerdfont-uf07a* *nerdfont-*
+| 61563   | \uf07b  |      | *nerdfont-61563* *nerdfont-uf07b* *nerdfont-*
+| 61564   | \uf07c  |      | *nerdfont-61564* *nerdfont-uf07c* *nerdfont-*
+| 61565   | \uf07d  |      | *nerdfont-61565* *nerdfont-uf07d* *nerdfont-*
+| 61566   | \uf07e  |      | *nerdfont-61566* *nerdfont-uf07e* *nerdfont-*
+| 61568   | \uf080  |      | *nerdfont-61568* *nerdfont-uf080* *nerdfont-*
+| 61569   | \uf081  |      | *nerdfont-61569* *nerdfont-uf081* *nerdfont-*
+| 61570   | \uf082  |      | *nerdfont-61570* *nerdfont-uf082* *nerdfont-*
+| 61571   | \uf083  |      | *nerdfont-61571* *nerdfont-uf083* *nerdfont-*
+| 61572   | \uf084  |      | *nerdfont-61572* *nerdfont-uf084* *nerdfont-*
+| 61573   | \uf085  |      | *nerdfont-61573* *nerdfont-uf085* *nerdfont-*
+| 61574   | \uf086  |      | *nerdfont-61574* *nerdfont-uf086* *nerdfont-*
+| 61575   | \uf087  |      | *nerdfont-61575* *nerdfont-uf087* *nerdfont-*
+| 61576   | \uf088  |      | *nerdfont-61576* *nerdfont-uf088* *nerdfont-*
+| 61577   | \uf089  |      | *nerdfont-61577* *nerdfont-uf089* *nerdfont-*
+| 61578   | \uf08a  |      | *nerdfont-61578* *nerdfont-uf08a* *nerdfont-*
+| 61579   | \uf08b  |      | *nerdfont-61579* *nerdfont-uf08b* *nerdfont-*
+| 61580   | \uf08c  |      | *nerdfont-61580* *nerdfont-uf08c* *nerdfont-*
+| 61581   | \uf08d  |      | *nerdfont-61581* *nerdfont-uf08d* *nerdfont-*
+| 61582   | \uf08e  |      | *nerdfont-61582* *nerdfont-uf08e* *nerdfont-*
+| 61584   | \uf090  |      | *nerdfont-61584* *nerdfont-uf090* *nerdfont-*
+| 61585   | \uf091  |      | *nerdfont-61585* *nerdfont-uf091* *nerdfont-*
+| 61586   | \uf092  |      | *nerdfont-61586* *nerdfont-uf092* *nerdfont-*
+| 61587   | \uf093  |      | *nerdfont-61587* *nerdfont-uf093* *nerdfont-*
+| 61588   | \uf094  |      | *nerdfont-61588* *nerdfont-uf094* *nerdfont-*
+| 61589   | \uf095  |      | *nerdfont-61589* *nerdfont-uf095* *nerdfont-*
+| 61590   | \uf096  |      | *nerdfont-61590* *nerdfont-uf096* *nerdfont-*
+| 61591   | \uf097  |      | *nerdfont-61591* *nerdfont-uf097* *nerdfont-*
+| 61592   | \uf098  |      | *nerdfont-61592* *nerdfont-uf098* *nerdfont-*
+| 61593   | \uf099  |      | *nerdfont-61593* *nerdfont-uf099* *nerdfont-*
+| 61594   | \uf09a  |      | *nerdfont-61594* *nerdfont-uf09a* *nerdfont-*
+| 61595   | \uf09b  |      | *nerdfont-61595* *nerdfont-uf09b* *nerdfont-*
+| 61596   | \uf09c  |      | *nerdfont-61596* *nerdfont-uf09c* *nerdfont-*
+| 61597   | \uf09d  |      | *nerdfont-61597* *nerdfont-uf09d* *nerdfont-*
+| 61598   | \uf09e  |      | *nerdfont-61598* *nerdfont-uf09e* *nerdfont-*
+| 61600   | \uf0a0  |      | *nerdfont-61600* *nerdfont-uf0a0* *nerdfont-*
+| 61601   | \uf0a1  |      | *nerdfont-61601* *nerdfont-uf0a1* *nerdfont-*
+| 61602   | \uf0a2  |      | *nerdfont-61602* *nerdfont-uf0a2* *nerdfont-*
+| 61603   | \uf0a3  |      | *nerdfont-61603* *nerdfont-uf0a3* *nerdfont-*
+| 61604   | \uf0a4  |      | *nerdfont-61604* *nerdfont-uf0a4* *nerdfont-*
+| 61605   | \uf0a5  |      | *nerdfont-61605* *nerdfont-uf0a5* *nerdfont-*
+| 61606   | \uf0a6  |      | *nerdfont-61606* *nerdfont-uf0a6* *nerdfont-*
+| 61607   | \uf0a7  |      | *nerdfont-61607* *nerdfont-uf0a7* *nerdfont-*
+| 61608   | \uf0a8  |      | *nerdfont-61608* *nerdfont-uf0a8* *nerdfont-*
+| 61609   | \uf0a9  |      | *nerdfont-61609* *nerdfont-uf0a9* *nerdfont-*
+| 61610   | \uf0aa  |      | *nerdfont-61610* *nerdfont-uf0aa* *nerdfont-*
+| 61611   | \uf0ab  |      | *nerdfont-61611* *nerdfont-uf0ab* *nerdfont-*
+| 61612   | \uf0ac  |      | *nerdfont-61612* *nerdfont-uf0ac* *nerdfont-*
+| 61613   | \uf0ad  |      | *nerdfont-61613* *nerdfont-uf0ad* *nerdfont-*
+| 61614   | \uf0ae  |      | *nerdfont-61614* *nerdfont-uf0ae* *nerdfont-*
+| 61616   | \uf0b0  |      | *nerdfont-61616* *nerdfont-uf0b0* *nerdfont-*
+| 61617   | \uf0b1  |      | *nerdfont-61617* *nerdfont-uf0b1* *nerdfont-*
+| 61618   | \uf0b2  |      | *nerdfont-61618* *nerdfont-uf0b2* *nerdfont-*
+| 61632   | \uf0c0  |      | *nerdfont-61632* *nerdfont-uf0c0* *nerdfont-*
+| 61633   | \uf0c1  |      | *nerdfont-61633* *nerdfont-uf0c1* *nerdfont-*
+| 61634   | \uf0c2  |      | *nerdfont-61634* *nerdfont-uf0c2* *nerdfont-*
+| 61635   | \uf0c3  |      | *nerdfont-61635* *nerdfont-uf0c3* *nerdfont-*
+| 61636   | \uf0c4  |      | *nerdfont-61636* *nerdfont-uf0c4* *nerdfont-*
+| 61637   | \uf0c5  |      | *nerdfont-61637* *nerdfont-uf0c5* *nerdfont-*
+| 61638   | \uf0c6  |      | *nerdfont-61638* *nerdfont-uf0c6* *nerdfont-*
+| 61639   | \uf0c7  |      | *nerdfont-61639* *nerdfont-uf0c7* *nerdfont-*
+| 61640   | \uf0c8  |      | *nerdfont-61640* *nerdfont-uf0c8* *nerdfont-*
+| 61641   | \uf0c9  |      | *nerdfont-61641* *nerdfont-uf0c9* *nerdfont-*
+| 61642   | \uf0ca  |      | *nerdfont-61642* *nerdfont-uf0ca* *nerdfont-*
+| 61643   | \uf0cb  |      | *nerdfont-61643* *nerdfont-uf0cb* *nerdfont-*
+| 61644   | \uf0cc  |      | *nerdfont-61644* *nerdfont-uf0cc* *nerdfont-*
+| 61645   | \uf0cd  |      | *nerdfont-61645* *nerdfont-uf0cd* *nerdfont-*
+| 61646   | \uf0ce  |      | *nerdfont-61646* *nerdfont-uf0ce* *nerdfont-*
+| 61648   | \uf0d0  |      | *nerdfont-61648* *nerdfont-uf0d0* *nerdfont-*
+| 61649   | \uf0d1  |      | *nerdfont-61649* *nerdfont-uf0d1* *nerdfont-*
+| 61650   | \uf0d2  |      | *nerdfont-61650* *nerdfont-uf0d2* *nerdfont-*
+| 61651   | \uf0d3  |      | *nerdfont-61651* *nerdfont-uf0d3* *nerdfont-*
+| 61652   | \uf0d4  |      | *nerdfont-61652* *nerdfont-uf0d4* *nerdfont-*
+| 61653   | \uf0d5  |      | *nerdfont-61653* *nerdfont-uf0d5* *nerdfont-*
+| 61654   | \uf0d6  |      | *nerdfont-61654* *nerdfont-uf0d6* *nerdfont-*
+| 61655   | \uf0d7  |      | *nerdfont-61655* *nerdfont-uf0d7* *nerdfont-*
+| 61656   | \uf0d8  |      | *nerdfont-61656* *nerdfont-uf0d8* *nerdfont-*
+| 61657   | \uf0d9  |      | *nerdfont-61657* *nerdfont-uf0d9* *nerdfont-*
+| 61658   | \uf0da  |      | *nerdfont-61658* *nerdfont-uf0da* *nerdfont-*
+| 61659   | \uf0db  |      | *nerdfont-61659* *nerdfont-uf0db* *nerdfont-*
+| 61660   | \uf0dc  |      | *nerdfont-61660* *nerdfont-uf0dc* *nerdfont-*
+| 61661   | \uf0dd  |      | *nerdfont-61661* *nerdfont-uf0dd* *nerdfont-*
+| 61662   | \uf0de  |      | *nerdfont-61662* *nerdfont-uf0de* *nerdfont-*
+| 61664   | \uf0e0  |      | *nerdfont-61664* *nerdfont-uf0e0* *nerdfont-*
+| 61665   | \uf0e1  |      | *nerdfont-61665* *nerdfont-uf0e1* *nerdfont-*
+| 61666   | \uf0e2  |      | *nerdfont-61666* *nerdfont-uf0e2* *nerdfont-*
+| 61667   | \uf0e3  |      | *nerdfont-61667* *nerdfont-uf0e3* *nerdfont-*
+| 61668   | \uf0e4  |      | *nerdfont-61668* *nerdfont-uf0e4* *nerdfont-*
+| 61669   | \uf0e5  |      | *nerdfont-61669* *nerdfont-uf0e5* *nerdfont-*
+| 61670   | \uf0e6  |      | *nerdfont-61670* *nerdfont-uf0e6* *nerdfont-*
+| 61671   | \uf0e7  |      | *nerdfont-61671* *nerdfont-uf0e7* *nerdfont-*
+| 61672   | \uf0e8  |      | *nerdfont-61672* *nerdfont-uf0e8* *nerdfont-*
+| 61673   | \uf0e9  |      | *nerdfont-61673* *nerdfont-uf0e9* *nerdfont-*
+| 61674   | \uf0ea  |      | *nerdfont-61674* *nerdfont-uf0ea* *nerdfont-*
+| 61675   | \uf0eb  |      | *nerdfont-61675* *nerdfont-uf0eb* *nerdfont-*
+| 61676   | \uf0ec  |      | *nerdfont-61676* *nerdfont-uf0ec* *nerdfont-*
+| 61677   | \uf0ed  |      | *nerdfont-61677* *nerdfont-uf0ed* *nerdfont-*
+| 61678   | \uf0ee  |      | *nerdfont-61678* *nerdfont-uf0ee* *nerdfont-*
+| 61680   | \uf0f0  |      | *nerdfont-61680* *nerdfont-uf0f0* *nerdfont-*
+| 61681   | \uf0f1  |      | *nerdfont-61681* *nerdfont-uf0f1* *nerdfont-*
+| 61682   | \uf0f2  |      | *nerdfont-61682* *nerdfont-uf0f2* *nerdfont-*
+| 61683   | \uf0f3  |      | *nerdfont-61683* *nerdfont-uf0f3* *nerdfont-*
+| 61684   | \uf0f4  |      | *nerdfont-61684* *nerdfont-uf0f4* *nerdfont-*
+| 61685   | \uf0f5  |      | *nerdfont-61685* *nerdfont-uf0f5* *nerdfont-*
+| 61686   | \uf0f6  |      | *nerdfont-61686* *nerdfont-uf0f6* *nerdfont-*
+| 61687   | \uf0f7  |      | *nerdfont-61687* *nerdfont-uf0f7* *nerdfont-*
+| 61688   | \uf0f8  |      | *nerdfont-61688* *nerdfont-uf0f8* *nerdfont-*
+| 61689   | \uf0f9  |      | *nerdfont-61689* *nerdfont-uf0f9* *nerdfont-*
+| 61690   | \uf0fa  |      | *nerdfont-61690* *nerdfont-uf0fa* *nerdfont-*
+| 61691   | \uf0fb  |      | *nerdfont-61691* *nerdfont-uf0fb* *nerdfont-*
+| 61692   | \uf0fc  |      | *nerdfont-61692* *nerdfont-uf0fc* *nerdfont-*
+| 61693   | \uf0fd  |      | *nerdfont-61693* *nerdfont-uf0fd* *nerdfont-*
+| 61694   | \uf0fe  |      | *nerdfont-61694* *nerdfont-uf0fe* *nerdfont-*
+| 61696   | \uf100  |      | *nerdfont-61696* *nerdfont-uf100* *nerdfont-*
+| 61697   | \uf101  |      | *nerdfont-61697* *nerdfont-uf101* *nerdfont-*
+| 61698   | \uf102  |      | *nerdfont-61698* *nerdfont-uf102* *nerdfont-*
+| 61699   | \uf103  |      | *nerdfont-61699* *nerdfont-uf103* *nerdfont-*
+| 61700   | \uf104  |      | *nerdfont-61700* *nerdfont-uf104* *nerdfont-*
+| 61701   | \uf105  |      | *nerdfont-61701* *nerdfont-uf105* *nerdfont-*
+| 61702   | \uf106  |      | *nerdfont-61702* *nerdfont-uf106* *nerdfont-*
+| 61703   | \uf107  |      | *nerdfont-61703* *nerdfont-uf107* *nerdfont-*
+| 61704   | \uf108  |      | *nerdfont-61704* *nerdfont-uf108* *nerdfont-*
+| 61705   | \uf109  |      | *nerdfont-61705* *nerdfont-uf109* *nerdfont-*
+| 61706   | \uf10a  |      | *nerdfont-61706* *nerdfont-uf10a* *nerdfont-*
+| 61707   | \uf10b  |      | *nerdfont-61707* *nerdfont-uf10b* *nerdfont-*
+| 61708   | \uf10c  |      | *nerdfont-61708* *nerdfont-uf10c* *nerdfont-*
+| 61709   | \uf10d  |      | *nerdfont-61709* *nerdfont-uf10d* *nerdfont-*
+| 61710   | \uf10e  |      | *nerdfont-61710* *nerdfont-uf10e* *nerdfont-*
+| 61712   | \uf110  |      | *nerdfont-61712* *nerdfont-uf110* *nerdfont-*
+| 61713   | \uf111  |      | *nerdfont-61713* *nerdfont-uf111* *nerdfont-*
+| 61714   | \uf112  |      | *nerdfont-61714* *nerdfont-uf112* *nerdfont-*
+| 61715   | \uf113  |      | *nerdfont-61715* *nerdfont-uf113* *nerdfont-*
+| 61716   | \uf114  |      | *nerdfont-61716* *nerdfont-uf114* *nerdfont-*
+| 61717   | \uf115  |      | *nerdfont-61717* *nerdfont-uf115* *nerdfont-*
+| 61720   | \uf118  |      | *nerdfont-61720* *nerdfont-uf118* *nerdfont-*
+| 61721   | \uf119  |      | *nerdfont-61721* *nerdfont-uf119* *nerdfont-*
+| 61722   | \uf11a  |      | *nerdfont-61722* *nerdfont-uf11a* *nerdfont-*
+| 61723   | \uf11b  |      | *nerdfont-61723* *nerdfont-uf11b* *nerdfont-*
+| 61724   | \uf11c  |      | *nerdfont-61724* *nerdfont-uf11c* *nerdfont-*
+| 61725   | \uf11d  |      | *nerdfont-61725* *nerdfont-uf11d* *nerdfont-*
+| 61726   | \uf11e  |      | *nerdfont-61726* *nerdfont-uf11e* *nerdfont-*
+| 61728   | \uf120  |      | *nerdfont-61728* *nerdfont-uf120* *nerdfont-*
+| 61729   | \uf121  |      | *nerdfont-61729* *nerdfont-uf121* *nerdfont-*
+| 61730   | \uf122  |      | *nerdfont-61730* *nerdfont-uf122* *nerdfont-*
+| 61731   | \uf123  |      | *nerdfont-61731* *nerdfont-uf123* *nerdfont-*
+| 61732   | \uf124  |      | *nerdfont-61732* *nerdfont-uf124* *nerdfont-*
+| 61733   | \uf125  |      | *nerdfont-61733* *nerdfont-uf125* *nerdfont-*
+| 61734   | \uf126  |      | *nerdfont-61734* *nerdfont-uf126* *nerdfont-*
+| 61735   | \uf127  |      | *nerdfont-61735* *nerdfont-uf127* *nerdfont-*
+| 61736   | \uf128  |      | *nerdfont-61736* *nerdfont-uf128* *nerdfont-*
+| 61737   | \uf129  |      | *nerdfont-61737* *nerdfont-uf129* *nerdfont-*
+| 61738   | \uf12a  |      | *nerdfont-61738* *nerdfont-uf12a* *nerdfont-*
+| 61739   | \uf12b  |      | *nerdfont-61739* *nerdfont-uf12b* *nerdfont-*
+| 61740   | \uf12c  |      | *nerdfont-61740* *nerdfont-uf12c* *nerdfont-*
+| 61741   | \uf12d  |      | *nerdfont-61741* *nerdfont-uf12d* *nerdfont-*
+| 61742   | \uf12e  |      | *nerdfont-61742* *nerdfont-uf12e* *nerdfont-*
+| 61744   | \uf130  |      | *nerdfont-61744* *nerdfont-uf130* *nerdfont-*
+| 61745   | \uf131  |      | *nerdfont-61745* *nerdfont-uf131* *nerdfont-*
+| 61746   | \uf132  |      | *nerdfont-61746* *nerdfont-uf132* *nerdfont-*
+| 61747   | \uf133  |      | *nerdfont-61747* *nerdfont-uf133* *nerdfont-*
+| 61748   | \uf134  |      | *nerdfont-61748* *nerdfont-uf134* *nerdfont-*
+| 61749   | \uf135  |      | *nerdfont-61749* *nerdfont-uf135* *nerdfont-*
+| 61750   | \uf136  |      | *nerdfont-61750* *nerdfont-uf136* *nerdfont-*
+| 61751   | \uf137  |      | *nerdfont-61751* *nerdfont-uf137* *nerdfont-*
+| 61752   | \uf138  |      | *nerdfont-61752* *nerdfont-uf138* *nerdfont-*
+| 61753   | \uf139  |      | *nerdfont-61753* *nerdfont-uf139* *nerdfont-*
+| 61754   | \uf13a  |      | *nerdfont-61754* *nerdfont-uf13a* *nerdfont-*
+| 61755   | \uf13b  |      | *nerdfont-61755* *nerdfont-uf13b* *nerdfont-*
+| 61756   | \uf13c  |      | *nerdfont-61756* *nerdfont-uf13c* *nerdfont-*
+| 61757   | \uf13d  |      | *nerdfont-61757* *nerdfont-uf13d* *nerdfont-*
+| 61758   | \uf13e  |      | *nerdfont-61758* *nerdfont-uf13e* *nerdfont-*
+| 61760   | \uf140  |      | *nerdfont-61760* *nerdfont-uf140* *nerdfont-*
+| 61761   | \uf141  |      | *nerdfont-61761* *nerdfont-uf141* *nerdfont-*
+| 61762   | \uf142  |      | *nerdfont-61762* *nerdfont-uf142* *nerdfont-*
+| 61763   | \uf143  |      | *nerdfont-61763* *nerdfont-uf143* *nerdfont-*
+| 61764   | \uf144  |      | *nerdfont-61764* *nerdfont-uf144* *nerdfont-*
+| 61765   | \uf145  |      | *nerdfont-61765* *nerdfont-uf145* *nerdfont-*
+| 61766   | \uf146  |      | *nerdfont-61766* *nerdfont-uf146* *nerdfont-*
+| 61767   | \uf147  |      | *nerdfont-61767* *nerdfont-uf147* *nerdfont-*
+| 61768   | \uf148  |      | *nerdfont-61768* *nerdfont-uf148* *nerdfont-*
+| 61769   | \uf149  |      | *nerdfont-61769* *nerdfont-uf149* *nerdfont-*
+| 61770   | \uf14a  |      | *nerdfont-61770* *nerdfont-uf14a* *nerdfont-*
+| 61771   | \uf14b  |      | *nerdfont-61771* *nerdfont-uf14b* *nerdfont-*
+| 61772   | \uf14c  |      | *nerdfont-61772* *nerdfont-uf14c* *nerdfont-*
+| 61773   | \uf14d  |      | *nerdfont-61773* *nerdfont-uf14d* *nerdfont-*
+| 61774   | \uf14e  |      | *nerdfont-61774* *nerdfont-uf14e* *nerdfont-*
+| 61776   | \uf150  |      | *nerdfont-61776* *nerdfont-uf150* *nerdfont-*
+| 61777   | \uf151  |      | *nerdfont-61777* *nerdfont-uf151* *nerdfont-*
+| 61778   | \uf152  |      | *nerdfont-61778* *nerdfont-uf152* *nerdfont-*
+| 61779   | \uf153  |      | *nerdfont-61779* *nerdfont-uf153* *nerdfont-*
+| 61780   | \uf154  |      | *nerdfont-61780* *nerdfont-uf154* *nerdfont-*
+| 61781   | \uf155  |      | *nerdfont-61781* *nerdfont-uf155* *nerdfont-*
+| 61782   | \uf156  |      | *nerdfont-61782* *nerdfont-uf156* *nerdfont-*
+| 61783   | \uf157  |      | *nerdfont-61783* *nerdfont-uf157* *nerdfont-*
+| 61784   | \uf158  |      | *nerdfont-61784* *nerdfont-uf158* *nerdfont-*
+| 61785   | \uf159  |      | *nerdfont-61785* *nerdfont-uf159* *nerdfont-*
+| 61786   | \uf15a  |      | *nerdfont-61786* *nerdfont-uf15a* *nerdfont-*
+| 61787   | \uf15b  |      | *nerdfont-61787* *nerdfont-uf15b* *nerdfont-*
+| 61788   | \uf15c  |      | *nerdfont-61788* *nerdfont-uf15c* *nerdfont-*
+| 61789   | \uf15d  |      | *nerdfont-61789* *nerdfont-uf15d* *nerdfont-*
+| 61790   | \uf15e  |      | *nerdfont-61790* *nerdfont-uf15e* *nerdfont-*
+| 61792   | \uf160  |      | *nerdfont-61792* *nerdfont-uf160* *nerdfont-*
+| 61793   | \uf161  |      | *nerdfont-61793* *nerdfont-uf161* *nerdfont-*
+| 61794   | \uf162  |      | *nerdfont-61794* *nerdfont-uf162* *nerdfont-*
+| 61795   | \uf163  |      | *nerdfont-61795* *nerdfont-uf163* *nerdfont-*
+| 61796   | \uf164  |      | *nerdfont-61796* *nerdfont-uf164* *nerdfont-*
+| 61797   | \uf165  |      | *nerdfont-61797* *nerdfont-uf165* *nerdfont-*
+| 61798   | \uf166  |      | *nerdfont-61798* *nerdfont-uf166* *nerdfont-*
+| 61799   | \uf167  |      | *nerdfont-61799* *nerdfont-uf167* *nerdfont-*
+| 61800   | \uf168  |      | *nerdfont-61800* *nerdfont-uf168* *nerdfont-*
+| 61801   | \uf169  |      | *nerdfont-61801* *nerdfont-uf169* *nerdfont-*
+| 61802   | \uf16a  |      | *nerdfont-61802* *nerdfont-uf16a* *nerdfont-*
+| 61803   | \uf16b  |      | *nerdfont-61803* *nerdfont-uf16b* *nerdfont-*
+| 61804   | \uf16c  |      | *nerdfont-61804* *nerdfont-uf16c* *nerdfont-*
+| 61805   | \uf16d  |      | *nerdfont-61805* *nerdfont-uf16d* *nerdfont-*
+| 61806   | \uf16e  |      | *nerdfont-61806* *nerdfont-uf16e* *nerdfont-*
+| 61808   | \uf170  |      | *nerdfont-61808* *nerdfont-uf170* *nerdfont-*
+| 61809   | \uf171  |      | *nerdfont-61809* *nerdfont-uf171* *nerdfont-*
+| 61810   | \uf172  |      | *nerdfont-61810* *nerdfont-uf172* *nerdfont-*
+| 61811   | \uf173  |      | *nerdfont-61811* *nerdfont-uf173* *nerdfont-*
+| 61812   | \uf174  |      | *nerdfont-61812* *nerdfont-uf174* *nerdfont-*
+| 61813   | \uf175  |      | *nerdfont-61813* *nerdfont-uf175* *nerdfont-*
+| 61814   | \uf176  |      | *nerdfont-61814* *nerdfont-uf176* *nerdfont-*
+| 61815   | \uf177  |      | *nerdfont-61815* *nerdfont-uf177* *nerdfont-*
+| 61816   | \uf178  |      | *nerdfont-61816* *nerdfont-uf178* *nerdfont-*
+| 61817   | \uf179  |      | *nerdfont-61817* *nerdfont-uf179* *nerdfont-*
+| 61818   | \uf17a  |      | *nerdfont-61818* *nerdfont-uf17a* *nerdfont-*
+| 61819   | \uf17b  |      | *nerdfont-61819* *nerdfont-uf17b* *nerdfont-*
+| 61820   | \uf17c  |      | *nerdfont-61820* *nerdfont-uf17c* *nerdfont-*
+| 61821   | \uf17d  |      | *nerdfont-61821* *nerdfont-uf17d* *nerdfont-*
+| 61822   | \uf17e  |      | *nerdfont-61822* *nerdfont-uf17e* *nerdfont-*
+| 61824   | \uf180  |      | *nerdfont-61824* *nerdfont-uf180* *nerdfont-*
+| 61825   | \uf181  |      | *nerdfont-61825* *nerdfont-uf181* *nerdfont-*
+| 61826   | \uf182  |      | *nerdfont-61826* *nerdfont-uf182* *nerdfont-*
+| 61827   | \uf183  |      | *nerdfont-61827* *nerdfont-uf183* *nerdfont-*
+| 61828   | \uf184  |      | *nerdfont-61828* *nerdfont-uf184* *nerdfont-*
+| 61829   | \uf185  |      | *nerdfont-61829* *nerdfont-uf185* *nerdfont-*
+| 61830   | \uf186  |      | *nerdfont-61830* *nerdfont-uf186* *nerdfont-*
+| 61831   | \uf187  |      | *nerdfont-61831* *nerdfont-uf187* *nerdfont-*
+| 61832   | \uf188  |      | *nerdfont-61832* *nerdfont-uf188* *nerdfont-*
+| 61833   | \uf189  |      | *nerdfont-61833* *nerdfont-uf189* *nerdfont-*
+| 61834   | \uf18a  |      | *nerdfont-61834* *nerdfont-uf18a* *nerdfont-*
+| 61835   | \uf18b  |      | *nerdfont-61835* *nerdfont-uf18b* *nerdfont-*
+| 61836   | \uf18c  |      | *nerdfont-61836* *nerdfont-uf18c* *nerdfont-*
+| 61837   | \uf18d  |      | *nerdfont-61837* *nerdfont-uf18d* *nerdfont-*
+| 61838   | \uf18e  |      | *nerdfont-61838* *nerdfont-uf18e* *nerdfont-*
+| 61840   | \uf190  |      | *nerdfont-61840* *nerdfont-uf190* *nerdfont-*
+| 61841   | \uf191  |      | *nerdfont-61841* *nerdfont-uf191* *nerdfont-*
+| 61842   | \uf192  |      | *nerdfont-61842* *nerdfont-uf192* *nerdfont-*
+| 61843   | \uf193  |      | *nerdfont-61843* *nerdfont-uf193* *nerdfont-*
+| 61844   | \uf194  |      | *nerdfont-61844* *nerdfont-uf194* *nerdfont-*
+| 61845   | \uf195  |      | *nerdfont-61845* *nerdfont-uf195* *nerdfont-*
+| 61846   | \uf196  |      | *nerdfont-61846* *nerdfont-uf196* *nerdfont-*
+| 61847   | \uf197  |      | *nerdfont-61847* *nerdfont-uf197* *nerdfont-*
+| 61848   | \uf198  |      | *nerdfont-61848* *nerdfont-uf198* *nerdfont-*
+| 61849   | \uf199  |      | *nerdfont-61849* *nerdfont-uf199* *nerdfont-*
+| 61850   | \uf19a  |      | *nerdfont-61850* *nerdfont-uf19a* *nerdfont-*
+| 61851   | \uf19b  |      | *nerdfont-61851* *nerdfont-uf19b* *nerdfont-*
+| 61852   | \uf19c  |      | *nerdfont-61852* *nerdfont-uf19c* *nerdfont-*
+| 61853   | \uf19d  |      | *nerdfont-61853* *nerdfont-uf19d* *nerdfont-*
+| 61854   | \uf19e  |      | *nerdfont-61854* *nerdfont-uf19e* *nerdfont-*
+| 61856   | \uf1a0  |      | *nerdfont-61856* *nerdfont-uf1a0* *nerdfont-*
+| 61857   | \uf1a1  |      | *nerdfont-61857* *nerdfont-uf1a1* *nerdfont-*
+| 61858   | \uf1a2  |      | *nerdfont-61858* *nerdfont-uf1a2* *nerdfont-*
+| 61859   | \uf1a3  |      | *nerdfont-61859* *nerdfont-uf1a3* *nerdfont-*
+| 61860   | \uf1a4  |      | *nerdfont-61860* *nerdfont-uf1a4* *nerdfont-*
+| 61861   | \uf1a5  |      | *nerdfont-61861* *nerdfont-uf1a5* *nerdfont-*
+| 61862   | \uf1a6  |      | *nerdfont-61862* *nerdfont-uf1a6* *nerdfont-*
+| 61863   | \uf1a7  |      | *nerdfont-61863* *nerdfont-uf1a7* *nerdfont-*
+| 61864   | \uf1a8  |      | *nerdfont-61864* *nerdfont-uf1a8* *nerdfont-*
+| 61865   | \uf1a9  |      | *nerdfont-61865* *nerdfont-uf1a9* *nerdfont-*
+| 61866   | \uf1aa  |      | *nerdfont-61866* *nerdfont-uf1aa* *nerdfont-*
+| 61867   | \uf1ab  |      | *nerdfont-61867* *nerdfont-uf1ab* *nerdfont-*
+| 61868   | \uf1ac  |      | *nerdfont-61868* *nerdfont-uf1ac* *nerdfont-*
+| 61869   | \uf1ad  |      | *nerdfont-61869* *nerdfont-uf1ad* *nerdfont-*
+| 61870   | \uf1ae  |      | *nerdfont-61870* *nerdfont-uf1ae* *nerdfont-*
+| 61872   | \uf1b0  |      | *nerdfont-61872* *nerdfont-uf1b0* *nerdfont-*
+| 61873   | \uf1b1  |      | *nerdfont-61873* *nerdfont-uf1b1* *nerdfont-*
+| 61874   | \uf1b2  |      | *nerdfont-61874* *nerdfont-uf1b2* *nerdfont-*
+| 61875   | \uf1b3  |      | *nerdfont-61875* *nerdfont-uf1b3* *nerdfont-*
+| 61876   | \uf1b4  |      | *nerdfont-61876* *nerdfont-uf1b4* *nerdfont-*
+| 61877   | \uf1b5  |      | *nerdfont-61877* *nerdfont-uf1b5* *nerdfont-*
+| 61878   | \uf1b6  |      | *nerdfont-61878* *nerdfont-uf1b6* *nerdfont-*
+| 61879   | \uf1b7  |      | *nerdfont-61879* *nerdfont-uf1b7* *nerdfont-*
+| 61880   | \uf1b8  |      | *nerdfont-61880* *nerdfont-uf1b8* *nerdfont-*
+| 61881   | \uf1b9  |      | *nerdfont-61881* *nerdfont-uf1b9* *nerdfont-*
+| 61882   | \uf1ba  |      | *nerdfont-61882* *nerdfont-uf1ba* *nerdfont-*
+| 61883   | \uf1bb  |      | *nerdfont-61883* *nerdfont-uf1bb* *nerdfont-*
+| 61884   | \uf1bc  |      | *nerdfont-61884* *nerdfont-uf1bc* *nerdfont-*
+| 61885   | \uf1bd  |      | *nerdfont-61885* *nerdfont-uf1bd* *nerdfont-*
+| 61886   | \uf1be  |      | *nerdfont-61886* *nerdfont-uf1be* *nerdfont-*
+| 61888   | \uf1c0  |      | *nerdfont-61888* *nerdfont-uf1c0* *nerdfont-*
+| 61889   | \uf1c1  |      | *nerdfont-61889* *nerdfont-uf1c1* *nerdfont-*
+| 61890   | \uf1c2  |      | *nerdfont-61890* *nerdfont-uf1c2* *nerdfont-*
+| 61891   | \uf1c3  |      | *nerdfont-61891* *nerdfont-uf1c3* *nerdfont-*
+| 61892   | \uf1c4  |      | *nerdfont-61892* *nerdfont-uf1c4* *nerdfont-*
+| 61893   | \uf1c5  |      | *nerdfont-61893* *nerdfont-uf1c5* *nerdfont-*
+| 61894   | \uf1c6  |      | *nerdfont-61894* *nerdfont-uf1c6* *nerdfont-*
+| 61895   | \uf1c7  |      | *nerdfont-61895* *nerdfont-uf1c7* *nerdfont-*
+| 61896   | \uf1c8  |      | *nerdfont-61896* *nerdfont-uf1c8* *nerdfont-*
+| 61897   | \uf1c9  |      | *nerdfont-61897* *nerdfont-uf1c9* *nerdfont-*
+| 61898   | \uf1ca  |      | *nerdfont-61898* *nerdfont-uf1ca* *nerdfont-*
+| 61899   | \uf1cb  |      | *nerdfont-61899* *nerdfont-uf1cb* *nerdfont-*
+| 61900   | \uf1cc  |      | *nerdfont-61900* *nerdfont-uf1cc* *nerdfont-*
+| 61901   | \uf1cd  |      | *nerdfont-61901* *nerdfont-uf1cd* *nerdfont-*
+| 61902   | \uf1ce  |      | *nerdfont-61902* *nerdfont-uf1ce* *nerdfont-*
+| 61904   | \uf1d0  |      | *nerdfont-61904* *nerdfont-uf1d0* *nerdfont-*
+| 61905   | \uf1d1  |      | *nerdfont-61905* *nerdfont-uf1d1* *nerdfont-*
+| 61906   | \uf1d2  |      | *nerdfont-61906* *nerdfont-uf1d2* *nerdfont-*
+| 61907   | \uf1d3  |      | *nerdfont-61907* *nerdfont-uf1d3* *nerdfont-*
+| 61908   | \uf1d4  |      | *nerdfont-61908* *nerdfont-uf1d4* *nerdfont-*
+| 61909   | \uf1d5  |      | *nerdfont-61909* *nerdfont-uf1d5* *nerdfont-*
+| 61910   | \uf1d6  |      | *nerdfont-61910* *nerdfont-uf1d6* *nerdfont-*
+| 61911   | \uf1d7  |      | *nerdfont-61911* *nerdfont-uf1d7* *nerdfont-*
+| 61912   | \uf1d8  |      | *nerdfont-61912* *nerdfont-uf1d8* *nerdfont-*
+| 61913   | \uf1d9  |      | *nerdfont-61913* *nerdfont-uf1d9* *nerdfont-*
+| 61914   | \uf1da  |      | *nerdfont-61914* *nerdfont-uf1da* *nerdfont-*
+| 61915   | \uf1db  |      | *nerdfont-61915* *nerdfont-uf1db* *nerdfont-*
+| 61916   | \uf1dc  |      | *nerdfont-61916* *nerdfont-uf1dc* *nerdfont-*
+| 61917   | \uf1dd  |      | *nerdfont-61917* *nerdfont-uf1dd* *nerdfont-*
+| 61918   | \uf1de  |      | *nerdfont-61918* *nerdfont-uf1de* *nerdfont-*
+| 61920   | \uf1e0  |      | *nerdfont-61920* *nerdfont-uf1e0* *nerdfont-*
+| 61921   | \uf1e1  |      | *nerdfont-61921* *nerdfont-uf1e1* *nerdfont-*
+| 61922   | \uf1e2  |      | *nerdfont-61922* *nerdfont-uf1e2* *nerdfont-*
+| 61923   | \uf1e3  |      | *nerdfont-61923* *nerdfont-uf1e3* *nerdfont-*
+| 61924   | \uf1e4  |      | *nerdfont-61924* *nerdfont-uf1e4* *nerdfont-*
+| 61925   | \uf1e5  |      | *nerdfont-61925* *nerdfont-uf1e5* *nerdfont-*
+| 61926   | \uf1e6  |      | *nerdfont-61926* *nerdfont-uf1e6* *nerdfont-*
+| 61927   | \uf1e7  |      | *nerdfont-61927* *nerdfont-uf1e7* *nerdfont-*
+| 61928   | \uf1e8  |      | *nerdfont-61928* *nerdfont-uf1e8* *nerdfont-*
+| 61929   | \uf1e9  |      | *nerdfont-61929* *nerdfont-uf1e9* *nerdfont-*
+| 61930   | \uf1ea  |      | *nerdfont-61930* *nerdfont-uf1ea* *nerdfont-*
+| 61931   | \uf1eb  |      | *nerdfont-61931* *nerdfont-uf1eb* *nerdfont-*
+| 61932   | \uf1ec  |      | *nerdfont-61932* *nerdfont-uf1ec* *nerdfont-*
+| 61933   | \uf1ed  |      | *nerdfont-61933* *nerdfont-uf1ed* *nerdfont-*
+| 61934   | \uf1ee  |      | *nerdfont-61934* *nerdfont-uf1ee* *nerdfont-*
+| 61936   | \uf1f0  |      | *nerdfont-61936* *nerdfont-uf1f0* *nerdfont-*
+| 61937   | \uf1f1  |      | *nerdfont-61937* *nerdfont-uf1f1* *nerdfont-*
+| 61938   | \uf1f2  |      | *nerdfont-61938* *nerdfont-uf1f2* *nerdfont-*
+| 61939   | \uf1f3  |      | *nerdfont-61939* *nerdfont-uf1f3* *nerdfont-*
+| 61940   | \uf1f4  |      | *nerdfont-61940* *nerdfont-uf1f4* *nerdfont-*
+| 61941   | \uf1f5  |      | *nerdfont-61941* *nerdfont-uf1f5* *nerdfont-*
+| 61942   | \uf1f6  |      | *nerdfont-61942* *nerdfont-uf1f6* *nerdfont-*
+| 61943   | \uf1f7  |      | *nerdfont-61943* *nerdfont-uf1f7* *nerdfont-*
+| 61944   | \uf1f8  |      | *nerdfont-61944* *nerdfont-uf1f8* *nerdfont-*
+| 61945   | \uf1f9  |      | *nerdfont-61945* *nerdfont-uf1f9* *nerdfont-*
+| 61946   | \uf1fa  |      | *nerdfont-61946* *nerdfont-uf1fa* *nerdfont-*
+| 61947   | \uf1fb  |      | *nerdfont-61947* *nerdfont-uf1fb* *nerdfont-*
+| 61948   | \uf1fc  |      | *nerdfont-61948* *nerdfont-uf1fc* *nerdfont-*
+| 61949   | \uf1fd  |      | *nerdfont-61949* *nerdfont-uf1fd* *nerdfont-*
+| 61950   | \uf1fe  |      | *nerdfont-61950* *nerdfont-uf1fe* *nerdfont-*
+| 61951   | \uf1ff  |      | *nerdfont-61951* *nerdfont-uf1ff* *nerdfont-*
+| 61952   | \uf200  |      | *nerdfont-61952* *nerdfont-uf200* *nerdfont-*
+| 61953   | \uf201  |      | *nerdfont-61953* *nerdfont-uf201* *nerdfont-*
+| 61954   | \uf202  |      | *nerdfont-61954* *nerdfont-uf202* *nerdfont-*
+| 61955   | \uf203  |      | *nerdfont-61955* *nerdfont-uf203* *nerdfont-*
+| 61956   | \uf204  |      | *nerdfont-61956* *nerdfont-uf204* *nerdfont-*
+| 61957   | \uf205  |      | *nerdfont-61957* *nerdfont-uf205* *nerdfont-*
+| 61958   | \uf206  |      | *nerdfont-61958* *nerdfont-uf206* *nerdfont-*
+| 61959   | \uf207  |      | *nerdfont-61959* *nerdfont-uf207* *nerdfont-*
+| 61960   | \uf208  |      | *nerdfont-61960* *nerdfont-uf208* *nerdfont-*
+| 61961   | \uf209  |      | *nerdfont-61961* *nerdfont-uf209* *nerdfont-*
+| 61962   | \uf20a  |      | *nerdfont-61962* *nerdfont-uf20a* *nerdfont-*
+| 61963   | \uf20b  |      | *nerdfont-61963* *nerdfont-uf20b* *nerdfont-*
+| 61964   | \uf20c  |      | *nerdfont-61964* *nerdfont-uf20c* *nerdfont-*
+| 61965   | \uf20d  |      | *nerdfont-61965* *nerdfont-uf20d* *nerdfont-*
+| 61966   | \uf20e  |      | *nerdfont-61966* *nerdfont-uf20e* *nerdfont-*
+| 61968   | \uf210  |      | *nerdfont-61968* *nerdfont-uf210* *nerdfont-*
+| 61969   | \uf211  |      | *nerdfont-61969* *nerdfont-uf211* *nerdfont-*
+| 61970   | \uf212  |      | *nerdfont-61970* *nerdfont-uf212* *nerdfont-*
+| 61971   | \uf213  |      | *nerdfont-61971* *nerdfont-uf213* *nerdfont-*
+| 61972   | \uf214  |      | *nerdfont-61972* *nerdfont-uf214* *nerdfont-*
+| 61973   | \uf215  |      | *nerdfont-61973* *nerdfont-uf215* *nerdfont-*
+| 61974   | \uf216  |      | *nerdfont-61974* *nerdfont-uf216* *nerdfont-*
+| 61975   | \uf217  |      | *nerdfont-61975* *nerdfont-uf217* *nerdfont-*
+| 61976   | \uf218  |      | *nerdfont-61976* *nerdfont-uf218* *nerdfont-*
+| 61977   | \uf219  |      | *nerdfont-61977* *nerdfont-uf219* *nerdfont-*
+| 61978   | \uf21a  |      | *nerdfont-61978* *nerdfont-uf21a* *nerdfont-*
+| 61979   | \uf21b  |      | *nerdfont-61979* *nerdfont-uf21b* *nerdfont-*
+| 61980   | \uf21c  |      | *nerdfont-61980* *nerdfont-uf21c* *nerdfont-*
+| 61981   | \uf21d  |      | *nerdfont-61981* *nerdfont-uf21d* *nerdfont-*
+| 61982   | \uf21e  |      | *nerdfont-61982* *nerdfont-uf21e* *nerdfont-*
+| 61985   | \uf221  |      | *nerdfont-61985* *nerdfont-uf221* *nerdfont-*
+| 61986   | \uf222  |      | *nerdfont-61986* *nerdfont-uf222* *nerdfont-*
+| 61987   | \uf223  |      | *nerdfont-61987* *nerdfont-uf223* *nerdfont-*
+| 61988   | \uf224  |      | *nerdfont-61988* *nerdfont-uf224* *nerdfont-*
+| 61989   | \uf225  |      | *nerdfont-61989* *nerdfont-uf225* *nerdfont-*
+| 61990   | \uf226  |      | *nerdfont-61990* *nerdfont-uf226* *nerdfont-*
+| 61991   | \uf227  |      | *nerdfont-61991* *nerdfont-uf227* *nerdfont-*
+| 61992   | \uf228  |      | *nerdfont-61992* *nerdfont-uf228* *nerdfont-*
+| 61993   | \uf229  |      | *nerdfont-61993* *nerdfont-uf229* *nerdfont-*
+| 61994   | \uf22a  |      | *nerdfont-61994* *nerdfont-uf22a* *nerdfont-*
+| 61995   | \uf22b  |      | *nerdfont-61995* *nerdfont-uf22b* *nerdfont-*
+| 61996   | \uf22c  |      | *nerdfont-61996* *nerdfont-uf22c* *nerdfont-*
+| 61997   | \uf22d  |      | *nerdfont-61997* *nerdfont-uf22d* *nerdfont-*
+| 62000   | \uf230  |      | *nerdfont-62000* *nerdfont-uf230* *nerdfont-*
+| 62001   | \uf231  |      | *nerdfont-62001* *nerdfont-uf231* *nerdfont-*
+| 62002   | \uf232  |      | *nerdfont-62002* *nerdfont-uf232* *nerdfont-*
+| 62003   | \uf233  |      | *nerdfont-62003* *nerdfont-uf233* *nerdfont-*
+| 62004   | \uf234  |      | *nerdfont-62004* *nerdfont-uf234* *nerdfont-*
+| 62005   | \uf235  |      | *nerdfont-62005* *nerdfont-uf235* *nerdfont-*
+| 62006   | \uf236  |      | *nerdfont-62006* *nerdfont-uf236* *nerdfont-*
+| 62007   | \uf237  |      | *nerdfont-62007* *nerdfont-uf237* *nerdfont-*
+| 62008   | \uf238  |      | *nerdfont-62008* *nerdfont-uf238* *nerdfont-*
+| 62009   | \uf239  |      | *nerdfont-62009* *nerdfont-uf239* *nerdfont-*
+| 62010   | \uf23a  |      | *nerdfont-62010* *nerdfont-uf23a* *nerdfont-*
+| 62011   | \uf23b  |      | *nerdfont-62011* *nerdfont-uf23b* *nerdfont-*
+| 62012   | \uf23c  |      | *nerdfont-62012* *nerdfont-uf23c* *nerdfont-*
+| 62013   | \uf23d  |      | *nerdfont-62013* *nerdfont-uf23d* *nerdfont-*
+| 62014   | \uf23e  |      | *nerdfont-62014* *nerdfont-uf23e* *nerdfont-*
+| 62016   | \uf240  |      | *nerdfont-62016* *nerdfont-uf240* *nerdfont-*
+| 62017   | \uf241  |      | *nerdfont-62017* *nerdfont-uf241* *nerdfont-*
+| 62018   | \uf242  |      | *nerdfont-62018* *nerdfont-uf242* *nerdfont-*
+| 62019   | \uf243  |      | *nerdfont-62019* *nerdfont-uf243* *nerdfont-*
+| 62020   | \uf244  |      | *nerdfont-62020* *nerdfont-uf244* *nerdfont-*
+| 62021   | \uf245  |      | *nerdfont-62021* *nerdfont-uf245* *nerdfont-*
+| 62022   | \uf246  |      | *nerdfont-62022* *nerdfont-uf246* *nerdfont-*
+| 62023   | \uf247  |      | *nerdfont-62023* *nerdfont-uf247* *nerdfont-*
+| 62024   | \uf248  |      | *nerdfont-62024* *nerdfont-uf248* *nerdfont-*
+| 62025   | \uf249  |      | *nerdfont-62025* *nerdfont-uf249* *nerdfont-*
+| 62026   | \uf24a  |      | *nerdfont-62026* *nerdfont-uf24a* *nerdfont-*
+| 62027   | \uf24b  |      | *nerdfont-62027* *nerdfont-uf24b* *nerdfont-*
+| 62028   | \uf24c  |      | *nerdfont-62028* *nerdfont-uf24c* *nerdfont-*
+| 62029   | \uf24d  |      | *nerdfont-62029* *nerdfont-uf24d* *nerdfont-*
+| 62030   | \uf24e  |      | *nerdfont-62030* *nerdfont-uf24e* *nerdfont-*
+| 62032   | \uf250  |      | *nerdfont-62032* *nerdfont-uf250* *nerdfont-*
+| 62033   | \uf251  |      | *nerdfont-62033* *nerdfont-uf251* *nerdfont-*
+| 62034   | \uf252  |      | *nerdfont-62034* *nerdfont-uf252* *nerdfont-*
+| 62035   | \uf253  |      | *nerdfont-62035* *nerdfont-uf253* *nerdfont-*
+| 62036   | \uf254  |      | *nerdfont-62036* *nerdfont-uf254* *nerdfont-*
+| 62037   | \uf255  |      | *nerdfont-62037* *nerdfont-uf255* *nerdfont-*
+| 62038   | \uf256  |      | *nerdfont-62038* *nerdfont-uf256* *nerdfont-*
+| 62039   | \uf257  |      | *nerdfont-62039* *nerdfont-uf257* *nerdfont-*
+| 62040   | \uf258  |      | *nerdfont-62040* *nerdfont-uf258* *nerdfont-*
+| 62041   | \uf259  |      | *nerdfont-62041* *nerdfont-uf259* *nerdfont-*
+| 62042   | \uf25a  |      | *nerdfont-62042* *nerdfont-uf25a* *nerdfont-*
+| 62043   | \uf25b  |      | *nerdfont-62043* *nerdfont-uf25b* *nerdfont-*
+| 62044   | \uf25c  |      | *nerdfont-62044* *nerdfont-uf25c* *nerdfont-*
+| 62045   | \uf25d  |      | *nerdfont-62045* *nerdfont-uf25d* *nerdfont-*
+| 62046   | \uf25e  |      | *nerdfont-62046* *nerdfont-uf25e* *nerdfont-*
+| 62048   | \uf260  |      | *nerdfont-62048* *nerdfont-uf260* *nerdfont-*
+| 62049   | \uf261  |      | *nerdfont-62049* *nerdfont-uf261* *nerdfont-*
+| 62050   | \uf262  |      | *nerdfont-62050* *nerdfont-uf262* *nerdfont-*
+| 62051   | \uf263  |      | *nerdfont-62051* *nerdfont-uf263* *nerdfont-*
+| 62052   | \uf264  |      | *nerdfont-62052* *nerdfont-uf264* *nerdfont-*
+| 62053   | \uf265  |      | *nerdfont-62053* *nerdfont-uf265* *nerdfont-*
+| 62054   | \uf266  |      | *nerdfont-62054* *nerdfont-uf266* *nerdfont-*
+| 62055   | \uf267  |      | *nerdfont-62055* *nerdfont-uf267* *nerdfont-*
+| 62056   | \uf268  |      | *nerdfont-62056* *nerdfont-uf268* *nerdfont-*
+| 62057   | \uf269  |      | *nerdfont-62057* *nerdfont-uf269* *nerdfont-*
+| 62058   | \uf26a  |      | *nerdfont-62058* *nerdfont-uf26a* *nerdfont-*
+| 62059   | \uf26b  |      | *nerdfont-62059* *nerdfont-uf26b* *nerdfont-*
+| 62060   | \uf26c  |      | *nerdfont-62060* *nerdfont-uf26c* *nerdfont-*
+| 62061   | \uf26d  |      | *nerdfont-62061* *nerdfont-uf26d* *nerdfont-*
+| 62062   | \uf26e  |      | *nerdfont-62062* *nerdfont-uf26e* *nerdfont-*
+| 62064   | \uf270  |      | *nerdfont-62064* *nerdfont-uf270* *nerdfont-*
+| 62065   | \uf271  |      | *nerdfont-62065* *nerdfont-uf271* *nerdfont-*
+| 62066   | \uf272  |      | *nerdfont-62066* *nerdfont-uf272* *nerdfont-*
+| 62067   | \uf273  |      | *nerdfont-62067* *nerdfont-uf273* *nerdfont-*
+| 62068   | \uf274  |      | *nerdfont-62068* *nerdfont-uf274* *nerdfont-*
+| 62069   | \uf275  |      | *nerdfont-62069* *nerdfont-uf275* *nerdfont-*
+| 62070   | \uf276  |      | *nerdfont-62070* *nerdfont-uf276* *nerdfont-*
+| 62071   | \uf277  |      | *nerdfont-62071* *nerdfont-uf277* *nerdfont-*
+| 62072   | \uf278  |      | *nerdfont-62072* *nerdfont-uf278* *nerdfont-*
+| 62073   | \uf279  |      | *nerdfont-62073* *nerdfont-uf279* *nerdfont-*
+| 62074   | \uf27a  |      | *nerdfont-62074* *nerdfont-uf27a* *nerdfont-*
+| 62075   | \uf27b  |      | *nerdfont-62075* *nerdfont-uf27b* *nerdfont-*
+| 62076   | \uf27c  |      | *nerdfont-62076* *nerdfont-uf27c* *nerdfont-*
+| 62077   | \uf27d  |      | *nerdfont-62077* *nerdfont-uf27d* *nerdfont-*
+| 62078   | \uf27e  |      | *nerdfont-62078* *nerdfont-uf27e* *nerdfont-*
+| 62080   | \uf280  |      | *nerdfont-62080* *nerdfont-uf280* *nerdfont-*
+| 62081   | \uf281  |      | *nerdfont-62081* *nerdfont-uf281* *nerdfont-*
+| 62082   | \uf282  |      | *nerdfont-62082* *nerdfont-uf282* *nerdfont-*
+| 62083   | \uf283  |      | *nerdfont-62083* *nerdfont-uf283* *nerdfont-*
+| 62084   | \uf284  |      | *nerdfont-62084* *nerdfont-uf284* *nerdfont-*
+| 62085   | \uf285  |      | *nerdfont-62085* *nerdfont-uf285* *nerdfont-*
+| 62086   | \uf286  |      | *nerdfont-62086* *nerdfont-uf286* *nerdfont-*
+| 62087   | \uf287  |      | *nerdfont-62087* *nerdfont-uf287* *nerdfont-*
+| 62088   | \uf288  |      | *nerdfont-62088* *nerdfont-uf288* *nerdfont-*
+| 62089   | \uf289  |      | *nerdfont-62089* *nerdfont-uf289* *nerdfont-*
+| 62090   | \uf28a  |      | *nerdfont-62090* *nerdfont-uf28a* *nerdfont-*
+| 62091   | \uf28b  |      | *nerdfont-62091* *nerdfont-uf28b* *nerdfont-*
+| 62092   | \uf28c  |      | *nerdfont-62092* *nerdfont-uf28c* *nerdfont-*
+| 62093   | \uf28d  |      | *nerdfont-62093* *nerdfont-uf28d* *nerdfont-*
+| 62094   | \uf28e  |      | *nerdfont-62094* *nerdfont-uf28e* *nerdfont-*
+| 62096   | \uf290  |      | *nerdfont-62096* *nerdfont-uf290* *nerdfont-*
+| 62097   | \uf291  |      | *nerdfont-62097* *nerdfont-uf291* *nerdfont-*
+| 62098   | \uf292  |      | *nerdfont-62098* *nerdfont-uf292* *nerdfont-*
+| 62099   | \uf293  |      | *nerdfont-62099* *nerdfont-uf293* *nerdfont-*
+| 62100   | \uf294  |      | *nerdfont-62100* *nerdfont-uf294* *nerdfont-*
+| 62101   | \uf295  |      | *nerdfont-62101* *nerdfont-uf295* *nerdfont-*
+| 62102   | \uf296  |      | *nerdfont-62102* *nerdfont-uf296* *nerdfont-*
+| 62103   | \uf297  |      | *nerdfont-62103* *nerdfont-uf297* *nerdfont-*
+| 62104   | \uf298  |      | *nerdfont-62104* *nerdfont-uf298* *nerdfont-*
+| 62105   | \uf299  |      | *nerdfont-62105* *nerdfont-uf299* *nerdfont-*
+| 62106   | \uf29a  |      | *nerdfont-62106* *nerdfont-uf29a* *nerdfont-*
+| 62107   | \uf29b  |      | *nerdfont-62107* *nerdfont-uf29b* *nerdfont-*
+| 62108   | \uf29c  |      | *nerdfont-62108* *nerdfont-uf29c* *nerdfont-*
+| 62109   | \uf29d  |      | *nerdfont-62109* *nerdfont-uf29d* *nerdfont-*
+| 62110   | \uf29e  |      | *nerdfont-62110* *nerdfont-uf29e* *nerdfont-*
+| 62112   | \uf2a0  |      | *nerdfont-62112* *nerdfont-uf2a0* *nerdfont-*
+| 62113   | \uf2a1  |      | *nerdfont-62113* *nerdfont-uf2a1* *nerdfont-*
+| 62114   | \uf2a2  |      | *nerdfont-62114* *nerdfont-uf2a2* *nerdfont-*
+| 62115   | \uf2a3  |      | *nerdfont-62115* *nerdfont-uf2a3* *nerdfont-*
+| 62116   | \uf2a4  |      | *nerdfont-62116* *nerdfont-uf2a4* *nerdfont-*
+| 62117   | \uf2a5  |      | *nerdfont-62117* *nerdfont-uf2a5* *nerdfont-*
+| 62118   | \uf2a6  |      | *nerdfont-62118* *nerdfont-uf2a6* *nerdfont-*
+| 62119   | \uf2a7  |      | *nerdfont-62119* *nerdfont-uf2a7* *nerdfont-*
+| 62120   | \uf2a8  |      | *nerdfont-62120* *nerdfont-uf2a8* *nerdfont-*
+| 62121   | \uf2a9  |      | *nerdfont-62121* *nerdfont-uf2a9* *nerdfont-*
+| 62122   | \uf2aa  |      | *nerdfont-62122* *nerdfont-uf2aa* *nerdfont-*
+| 62123   | \uf2ab  |      | *nerdfont-62123* *nerdfont-uf2ab* *nerdfont-*
+| 62124   | \uf2ac  |      | *nerdfont-62124* *nerdfont-uf2ac* *nerdfont-*
+| 62125   | \uf2ad  |      | *nerdfont-62125* *nerdfont-uf2ad* *nerdfont-*
+| 62126   | \uf2ae  |      | *nerdfont-62126* *nerdfont-uf2ae* *nerdfont-*
+| 62128   | \uf2b0  |      | *nerdfont-62128* *nerdfont-uf2b0* *nerdfont-*
+| 62129   | \uf2b1  |      | *nerdfont-62129* *nerdfont-uf2b1* *nerdfont-*
+| 62130   | \uf2b2  |      | *nerdfont-62130* *nerdfont-uf2b2* *nerdfont-*
+| 62131   | \uf2b3  |      | *nerdfont-62131* *nerdfont-uf2b3* *nerdfont-*
+| 62132   | \uf2b4  |      | *nerdfont-62132* *nerdfont-uf2b4* *nerdfont-*
+| 62133   | \uf2b5  |      | *nerdfont-62133* *nerdfont-uf2b5* *nerdfont-*
+| 62134   | \uf2b6  |      | *nerdfont-62134* *nerdfont-uf2b6* *nerdfont-*
+| 62135   | \uf2b7  |      | *nerdfont-62135* *nerdfont-uf2b7* *nerdfont-*
+| 62136   | \uf2b8  |      | *nerdfont-62136* *nerdfont-uf2b8* *nerdfont-*
+| 62137   | \uf2b9  |      | *nerdfont-62137* *nerdfont-uf2b9* *nerdfont-*
+| 62138   | \uf2ba  |      | *nerdfont-62138* *nerdfont-uf2ba* *nerdfont-*
+| 62139   | \uf2bb  |      | *nerdfont-62139* *nerdfont-uf2bb* *nerdfont-*
+| 62140   | \uf2bc  |      | *nerdfont-62140* *nerdfont-uf2bc* *nerdfont-*
+| 62141   | \uf2bd  |      | *nerdfont-62141* *nerdfont-uf2bd* *nerdfont-*
+| 62142   | \uf2be  |      | *nerdfont-62142* *nerdfont-uf2be* *nerdfont-*
+| 62144   | \uf2c0  |      | *nerdfont-62144* *nerdfont-uf2c0* *nerdfont-*
+| 62145   | \uf2c1  |      | *nerdfont-62145* *nerdfont-uf2c1* *nerdfont-*
+| 62146   | \uf2c2  |      | *nerdfont-62146* *nerdfont-uf2c2* *nerdfont-*
+| 62147   | \uf2c3  |      | *nerdfont-62147* *nerdfont-uf2c3* *nerdfont-*
+| 62148   | \uf2c4  |      | *nerdfont-62148* *nerdfont-uf2c4* *nerdfont-*
+| 62149   | \uf2c5  |      | *nerdfont-62149* *nerdfont-uf2c5* *nerdfont-*
+| 62150   | \uf2c6  |      | *nerdfont-62150* *nerdfont-uf2c6* *nerdfont-*
+| 62151   | \uf2c7  |      | *nerdfont-62151* *nerdfont-uf2c7* *nerdfont-*
+| 62152   | \uf2c8  |      | *nerdfont-62152* *nerdfont-uf2c8* *nerdfont-*
+| 62153   | \uf2c9  |      | *nerdfont-62153* *nerdfont-uf2c9* *nerdfont-*
+| 62154   | \uf2ca  |      | *nerdfont-62154* *nerdfont-uf2ca* *nerdfont-*
+| 62155   | \uf2cb  |      | *nerdfont-62155* *nerdfont-uf2cb* *nerdfont-*
+| 62156   | \uf2cc  |      | *nerdfont-62156* *nerdfont-uf2cc* *nerdfont-*
+| 62157   | \uf2cd  |      | *nerdfont-62157* *nerdfont-uf2cd* *nerdfont-*
+| 62158   | \uf2ce  |      | *nerdfont-62158* *nerdfont-uf2ce* *nerdfont-*
+| 62160   | \uf2d0  |      | *nerdfont-62160* *nerdfont-uf2d0* *nerdfont-*
+| 62161   | \uf2d1  |      | *nerdfont-62161* *nerdfont-uf2d1* *nerdfont-*
+| 62162   | \uf2d2  |      | *nerdfont-62162* *nerdfont-uf2d2* *nerdfont-*
+| 62163   | \uf2d3  |      | *nerdfont-62163* *nerdfont-uf2d3* *nerdfont-*
+| 62164   | \uf2d4  |      | *nerdfont-62164* *nerdfont-uf2d4* *nerdfont-*
+| 62165   | \uf2d5  |      | *nerdfont-62165* *nerdfont-uf2d5* *nerdfont-*
+| 62166   | \uf2d6  |      | *nerdfont-62166* *nerdfont-uf2d6* *nerdfont-*
+| 62167   | \uf2d7  |      | *nerdfont-62167* *nerdfont-uf2d7* *nerdfont-*
+| 62168   | \uf2d8  |      | *nerdfont-62168* *nerdfont-uf2d8* *nerdfont-*
+| 62169   | \uf2d9  |      | *nerdfont-62169* *nerdfont-uf2d9* *nerdfont-*
+| 62170   | \uf2da  |      | *nerdfont-62170* *nerdfont-uf2da* *nerdfont-*
+| 62171   | \uf2db  |      | *nerdfont-62171* *nerdfont-uf2db* *nerdfont-*
+| 62172   | \uf2dc  |      | *nerdfont-62172* *nerdfont-uf2dc* *nerdfont-*
+| 62173   | \uf2dd  |      | *nerdfont-62173* *nerdfont-uf2dd* *nerdfont-*
+| 62174   | \uf2de  |      | *nerdfont-62174* *nerdfont-uf2de* *nerdfont-*
+| 62176   | \uf2e0  |      | *nerdfont-62176* *nerdfont-uf2e0* *nerdfont-*
 
 vim: ft=help

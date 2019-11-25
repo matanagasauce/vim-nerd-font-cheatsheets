@@ -6,175 +6,175 @@ Nerd Font - Font Awesome Extensions ~
 
 | Decimal | Unicode | Glyph |
 |--------:|--------:|:-----:|
-| 57856   | \ue200  |      |
-| 57857   | \ue201  |      |
-| 57858   | \ue202  |      |
-| 57859   | \ue203  |      |
-| 57860   | \ue204  |      |
-| 57861   | \ue205  |      |
-| 57862   | \ue206  |      |
-| 57863   | \ue207  |      |
-| 57864   | \ue208  |      |
-| 57865   | \ue209  |      |
-| 57866   | \ue20a  |      |
-| 57867   | \ue20b  |      |
-| 57868   | \ue20c  |      |
-| 57869   | \ue20d  |      |
-| 57870   | \ue20e  |      |
-| 57871   | \ue20f  |      |
-| 57872   | \ue210  |      |
-| 57873   | \ue211  |      |
-| 57874   | \ue212  |      |
-| 57875   | \ue213  |      |
-| 57876   | \ue214  |      |
-| 57877   | \ue215  |      |
-| 57878   | \ue216  |      |
-| 57879   | \ue217  |      |
-| 57880   | \ue218  |      |
-| 57881   | \ue219  |      |
-| 57882   | \ue21a  |      |
-| 57883   | \ue21b  |      |
-| 57884   | \ue21c  |      |
-| 57885   | \ue21d  |      |
-| 57886   | \ue21e  |      |
-| 57887   | \ue21f  |      |
-| 57888   | \ue220  |      |
-| 57889   | \ue221  |      |
-| 57890   | \ue222  |      |
-| 57891   | \ue223  |      |
-| 57892   | \ue224  |      |
-| 57893   | \ue225  |      |
-| 57894   | \ue226  |      |
-| 57895   | \ue227  |      |
-| 57896   | \ue228  |      |
-| 57897   | \ue229  |      |
-| 57898   | \ue22a  |      |
-| 57899   | \ue22b  |      |
-| 57900   | \ue22c  |      |
-| 57901   | \ue22d  |      |
-| 57902   | \ue22e  |      |
-| 57903   | \ue22f  |      |
-| 57904   | \ue230  |      |
-| 57905   | \ue231  |      |
-| 57906   | \ue232  |      |
-| 57907   | \ue233  |      |
-| 57908   | \ue234  |      |
-| 57909   | \ue235  |      |
-| 57910   | \ue236  |      |
-| 57911   | \ue237  |      |
-| 57912   | \ue238  |      |
-| 57913   | \ue239  |      |
-| 57914   | \ue23a  |      |
-| 57915   | \ue23b  |      |
-| 57916   | \ue23c  |      |
-| 57917   | \ue23d  |      |
-| 57918   | \ue23e  |      |
-| 57919   | \ue23f  |      |
-| 57920   | \ue240  |      |
-| 57921   | \ue241  |      |
-| 57922   | \ue242  |      |
-| 57923   | \ue243  |      |
-| 57924   | \ue244  |      |
-| 57925   | \ue245  |      |
-| 57926   | \ue246  |      |
-| 57927   | \ue247  |      |
-| 57928   | \ue248  |      |
-| 57929   | \ue249  |      |
-| 57930   | \ue24a  |      |
-| 57931   | \ue24b  |      |
-| 57932   | \ue24c  |      |
-| 57933   | \ue24d  |      |
-| 57934   | \ue24e  |      |
-| 57935   | \ue24f  |      |
-| 57936   | \ue250  |      |
-| 57937   | \ue251  |      |
-| 57938   | \ue252  |      |
-| 57939   | \ue253  |      |
-| 57940   | \ue254  |      |
-| 57941   | \ue255  |      |
-| 57942   | \ue256  |      |
-| 57943   | \ue257  |      |
-| 57944   | \ue258  |      |
-| 57945   | \ue259  |      |
-| 57946   | \ue25a  |      |
-| 57947   | \ue25b  |      |
-| 57948   | \ue25c  |      |
-| 57949   | \ue25d  |      |
-| 57950   | \ue25e  |      |
-| 57951   | \ue25f  |      |
-| 57952   | \ue260  |      |
-| 57953   | \ue261  |      |
-| 57954   | \ue262  |      |
-| 57955   | \ue263  |      |
-| 57956   | \ue264  |      |
-| 57957   | \ue265  |      |
-| 57958   | \ue266  |      |
-| 57959   | \ue267  |      |
-| 57960   | \ue268  |      |
-| 57961   | \ue269  |      |
-| 57962   | \ue26a  |      |
-| 57963   | \ue26b  |      |
-| 57964   | \ue26c  |      |
-| 57965   | \ue26d  |      |
-| 57966   | \ue26e  |      |
-| 57967   | \ue26f  |      |
-| 57968   | \ue270  |      |
-| 57969   | \ue271  |      |
-| 57970   | \ue272  |      |
-| 57971   | \ue273  |      |
-| 57972   | \ue274  |      |
-| 57973   | \ue275  |      |
-| 57974   | \ue276  |      |
-| 57975   | \ue277  |      |
-| 57976   | \ue278  |      |
-| 57977   | \ue279  |      |
-| 57978   | \ue27a  |      |
-| 57979   | \ue27b  |      |
-| 57980   | \ue27c  |      |
-| 57981   | \ue27d  |      |
-| 57982   | \ue27e  |      |
-| 57983   | \ue27f  |      |
-| 57984   | \ue280  |      |
-| 57985   | \ue281  |      |
-| 57986   | \ue282  |      |
-| 57987   | \ue283  |      |
-| 57988   | \ue284  |      |
-| 57989   | \ue285  |      |
-| 57990   | \ue286  |      |
-| 57991   | \ue287  |      |
-| 57992   | \ue288  |      |
-| 57993   | \ue289  |      |
-| 57994   | \ue28a  |      |
-| 57995   | \ue28b  |      |
-| 57996   | \ue28c  |      |
-| 57997   | \ue28d  |      |
-| 57998   | \ue28e  |      |
-| 57999   | \ue28f  |      |
-| 58000   | \ue290  |      |
-| 58001   | \ue291  |      |
-| 58002   | \ue292  |      |
-| 58003   | \ue293  |      |
-| 58004   | \ue294  |      |
-| 58005   | \ue295  |      |
-| 58006   | \ue296  |      |
-| 58007   | \ue297  |      |
-| 58008   | \ue298  |      |
-| 58009   | \ue299  |      |
-| 58010   | \ue29a  |      |
-| 58011   | \ue29b  |      |
-| 58012   | \ue29c  |      |
-| 58013   | \ue29d  |      |
-| 58014   | \ue29e  |      |
-| 58015   | \ue29f  |      |
-| 58016   | \ue2a0  |      |
-| 58017   | \ue2a1  |      |
-| 58018   | \ue2a2  |      |
-| 58019   | \ue2a3  |      |
-| 58020   | \ue2a4  |      |
-| 58021   | \ue2a5  |      |
-| 58022   | \ue2a6  |      |
-| 58023   | \ue2a7  |      |
-| 58024   | \ue2a8  |      |
-| 58025   | \ue2a9  |      |
+| 57856   | \ue200  |      | *nerdfont-57856* *nerdfont-ue200* *nerdfont-*
+| 57857   | \ue201  |      | *nerdfont-57857* *nerdfont-ue201* *nerdfont-*
+| 57858   | \ue202  |      | *nerdfont-57858* *nerdfont-ue202* *nerdfont-*
+| 57859   | \ue203  |      | *nerdfont-57859* *nerdfont-ue203* *nerdfont-*
+| 57860   | \ue204  |      | *nerdfont-57860* *nerdfont-ue204* *nerdfont-*
+| 57861   | \ue205  |      | *nerdfont-57861* *nerdfont-ue205* *nerdfont-*
+| 57862   | \ue206  |      | *nerdfont-57862* *nerdfont-ue206* *nerdfont-*
+| 57863   | \ue207  |      | *nerdfont-57863* *nerdfont-ue207* *nerdfont-*
+| 57864   | \ue208  |      | *nerdfont-57864* *nerdfont-ue208* *nerdfont-*
+| 57865   | \ue209  |      | *nerdfont-57865* *nerdfont-ue209* *nerdfont-*
+| 57866   | \ue20a  |      | *nerdfont-57866* *nerdfont-ue20a* *nerdfont-*
+| 57867   | \ue20b  |      | *nerdfont-57867* *nerdfont-ue20b* *nerdfont-*
+| 57868   | \ue20c  |      | *nerdfont-57868* *nerdfont-ue20c* *nerdfont-*
+| 57869   | \ue20d  |      | *nerdfont-57869* *nerdfont-ue20d* *nerdfont-*
+| 57870   | \ue20e  |      | *nerdfont-57870* *nerdfont-ue20e* *nerdfont-*
+| 57871   | \ue20f  |      | *nerdfont-57871* *nerdfont-ue20f* *nerdfont-*
+| 57872   | \ue210  |      | *nerdfont-57872* *nerdfont-ue210* *nerdfont-*
+| 57873   | \ue211  |      | *nerdfont-57873* *nerdfont-ue211* *nerdfont-*
+| 57874   | \ue212  |      | *nerdfont-57874* *nerdfont-ue212* *nerdfont-*
+| 57875   | \ue213  |      | *nerdfont-57875* *nerdfont-ue213* *nerdfont-*
+| 57876   | \ue214  |      | *nerdfont-57876* *nerdfont-ue214* *nerdfont-*
+| 57877   | \ue215  |      | *nerdfont-57877* *nerdfont-ue215* *nerdfont-*
+| 57878   | \ue216  |      | *nerdfont-57878* *nerdfont-ue216* *nerdfont-*
+| 57879   | \ue217  |      | *nerdfont-57879* *nerdfont-ue217* *nerdfont-*
+| 57880   | \ue218  |      | *nerdfont-57880* *nerdfont-ue218* *nerdfont-*
+| 57881   | \ue219  |      | *nerdfont-57881* *nerdfont-ue219* *nerdfont-*
+| 57882   | \ue21a  |      | *nerdfont-57882* *nerdfont-ue21a* *nerdfont-*
+| 57883   | \ue21b  |      | *nerdfont-57883* *nerdfont-ue21b* *nerdfont-*
+| 57884   | \ue21c  |      | *nerdfont-57884* *nerdfont-ue21c* *nerdfont-*
+| 57885   | \ue21d  |      | *nerdfont-57885* *nerdfont-ue21d* *nerdfont-*
+| 57886   | \ue21e  |      | *nerdfont-57886* *nerdfont-ue21e* *nerdfont-*
+| 57887   | \ue21f  |      | *nerdfont-57887* *nerdfont-ue21f* *nerdfont-*
+| 57888   | \ue220  |      | *nerdfont-57888* *nerdfont-ue220* *nerdfont-*
+| 57889   | \ue221  |      | *nerdfont-57889* *nerdfont-ue221* *nerdfont-*
+| 57890   | \ue222  |      | *nerdfont-57890* *nerdfont-ue222* *nerdfont-*
+| 57891   | \ue223  |      | *nerdfont-57891* *nerdfont-ue223* *nerdfont-*
+| 57892   | \ue224  |      | *nerdfont-57892* *nerdfont-ue224* *nerdfont-*
+| 57893   | \ue225  |      | *nerdfont-57893* *nerdfont-ue225* *nerdfont-*
+| 57894   | \ue226  |      | *nerdfont-57894* *nerdfont-ue226* *nerdfont-*
+| 57895   | \ue227  |      | *nerdfont-57895* *nerdfont-ue227* *nerdfont-*
+| 57896   | \ue228  |      | *nerdfont-57896* *nerdfont-ue228* *nerdfont-*
+| 57897   | \ue229  |      | *nerdfont-57897* *nerdfont-ue229* *nerdfont-*
+| 57898   | \ue22a  |      | *nerdfont-57898* *nerdfont-ue22a* *nerdfont-*
+| 57899   | \ue22b  |      | *nerdfont-57899* *nerdfont-ue22b* *nerdfont-*
+| 57900   | \ue22c  |      | *nerdfont-57900* *nerdfont-ue22c* *nerdfont-*
+| 57901   | \ue22d  |      | *nerdfont-57901* *nerdfont-ue22d* *nerdfont-*
+| 57902   | \ue22e  |      | *nerdfont-57902* *nerdfont-ue22e* *nerdfont-*
+| 57903   | \ue22f  |      | *nerdfont-57903* *nerdfont-ue22f* *nerdfont-*
+| 57904   | \ue230  |      | *nerdfont-57904* *nerdfont-ue230* *nerdfont-*
+| 57905   | \ue231  |      | *nerdfont-57905* *nerdfont-ue231* *nerdfont-*
+| 57906   | \ue232  |      | *nerdfont-57906* *nerdfont-ue232* *nerdfont-*
+| 57907   | \ue233  |      | *nerdfont-57907* *nerdfont-ue233* *nerdfont-*
+| 57908   | \ue234  |      | *nerdfont-57908* *nerdfont-ue234* *nerdfont-*
+| 57909   | \ue235  |      | *nerdfont-57909* *nerdfont-ue235* *nerdfont-*
+| 57910   | \ue236  |      | *nerdfont-57910* *nerdfont-ue236* *nerdfont-*
+| 57911   | \ue237  |      | *nerdfont-57911* *nerdfont-ue237* *nerdfont-*
+| 57912   | \ue238  |      | *nerdfont-57912* *nerdfont-ue238* *nerdfont-*
+| 57913   | \ue239  |      | *nerdfont-57913* *nerdfont-ue239* *nerdfont-*
+| 57914   | \ue23a  |      | *nerdfont-57914* *nerdfont-ue23a* *nerdfont-*
+| 57915   | \ue23b  |      | *nerdfont-57915* *nerdfont-ue23b* *nerdfont-*
+| 57916   | \ue23c  |      | *nerdfont-57916* *nerdfont-ue23c* *nerdfont-*
+| 57917   | \ue23d  |      | *nerdfont-57917* *nerdfont-ue23d* *nerdfont-*
+| 57918   | \ue23e  |      | *nerdfont-57918* *nerdfont-ue23e* *nerdfont-*
+| 57919   | \ue23f  |      | *nerdfont-57919* *nerdfont-ue23f* *nerdfont-*
+| 57920   | \ue240  |      | *nerdfont-57920* *nerdfont-ue240* *nerdfont-*
+| 57921   | \ue241  |      | *nerdfont-57921* *nerdfont-ue241* *nerdfont-*
+| 57922   | \ue242  |      | *nerdfont-57922* *nerdfont-ue242* *nerdfont-*
+| 57923   | \ue243  |      | *nerdfont-57923* *nerdfont-ue243* *nerdfont-*
+| 57924   | \ue244  |      | *nerdfont-57924* *nerdfont-ue244* *nerdfont-*
+| 57925   | \ue245  |      | *nerdfont-57925* *nerdfont-ue245* *nerdfont-*
+| 57926   | \ue246  |      | *nerdfont-57926* *nerdfont-ue246* *nerdfont-*
+| 57927   | \ue247  |      | *nerdfont-57927* *nerdfont-ue247* *nerdfont-*
+| 57928   | \ue248  |      | *nerdfont-57928* *nerdfont-ue248* *nerdfont-*
+| 57929   | \ue249  |      | *nerdfont-57929* *nerdfont-ue249* *nerdfont-*
+| 57930   | \ue24a  |      | *nerdfont-57930* *nerdfont-ue24a* *nerdfont-*
+| 57931   | \ue24b  |      | *nerdfont-57931* *nerdfont-ue24b* *nerdfont-*
+| 57932   | \ue24c  |      | *nerdfont-57932* *nerdfont-ue24c* *nerdfont-*
+| 57933   | \ue24d  |      | *nerdfont-57933* *nerdfont-ue24d* *nerdfont-*
+| 57934   | \ue24e  |      | *nerdfont-57934* *nerdfont-ue24e* *nerdfont-*
+| 57935   | \ue24f  |      | *nerdfont-57935* *nerdfont-ue24f* *nerdfont-*
+| 57936   | \ue250  |      | *nerdfont-57936* *nerdfont-ue250* *nerdfont-*
+| 57937   | \ue251  |      | *nerdfont-57937* *nerdfont-ue251* *nerdfont-*
+| 57938   | \ue252  |      | *nerdfont-57938* *nerdfont-ue252* *nerdfont-*
+| 57939   | \ue253  |      | *nerdfont-57939* *nerdfont-ue253* *nerdfont-*
+| 57940   | \ue254  |      | *nerdfont-57940* *nerdfont-ue254* *nerdfont-*
+| 57941   | \ue255  |      | *nerdfont-57941* *nerdfont-ue255* *nerdfont-*
+| 57942   | \ue256  |      | *nerdfont-57942* *nerdfont-ue256* *nerdfont-*
+| 57943   | \ue257  |      | *nerdfont-57943* *nerdfont-ue257* *nerdfont-*
+| 57944   | \ue258  |      | *nerdfont-57944* *nerdfont-ue258* *nerdfont-*
+| 57945   | \ue259  |      | *nerdfont-57945* *nerdfont-ue259* *nerdfont-*
+| 57946   | \ue25a  |      | *nerdfont-57946* *nerdfont-ue25a* *nerdfont-*
+| 57947   | \ue25b  |      | *nerdfont-57947* *nerdfont-ue25b* *nerdfont-*
+| 57948   | \ue25c  |      | *nerdfont-57948* *nerdfont-ue25c* *nerdfont-*
+| 57949   | \ue25d  |      | *nerdfont-57949* *nerdfont-ue25d* *nerdfont-*
+| 57950   | \ue25e  |      | *nerdfont-57950* *nerdfont-ue25e* *nerdfont-*
+| 57951   | \ue25f  |      | *nerdfont-57951* *nerdfont-ue25f* *nerdfont-*
+| 57952   | \ue260  |      | *nerdfont-57952* *nerdfont-ue260* *nerdfont-*
+| 57953   | \ue261  |      | *nerdfont-57953* *nerdfont-ue261* *nerdfont-*
+| 57954   | \ue262  |      | *nerdfont-57954* *nerdfont-ue262* *nerdfont-*
+| 57955   | \ue263  |      | *nerdfont-57955* *nerdfont-ue263* *nerdfont-*
+| 57956   | \ue264  |      | *nerdfont-57956* *nerdfont-ue264* *nerdfont-*
+| 57957   | \ue265  |      | *nerdfont-57957* *nerdfont-ue265* *nerdfont-*
+| 57958   | \ue266  |      | *nerdfont-57958* *nerdfont-ue266* *nerdfont-*
+| 57959   | \ue267  |      | *nerdfont-57959* *nerdfont-ue267* *nerdfont-*
+| 57960   | \ue268  |      | *nerdfont-57960* *nerdfont-ue268* *nerdfont-*
+| 57961   | \ue269  |      | *nerdfont-57961* *nerdfont-ue269* *nerdfont-*
+| 57962   | \ue26a  |      | *nerdfont-57962* *nerdfont-ue26a* *nerdfont-*
+| 57963   | \ue26b  |      | *nerdfont-57963* *nerdfont-ue26b* *nerdfont-*
+| 57964   | \ue26c  |      | *nerdfont-57964* *nerdfont-ue26c* *nerdfont-*
+| 57965   | \ue26d  |      | *nerdfont-57965* *nerdfont-ue26d* *nerdfont-*
+| 57966   | \ue26e  |      | *nerdfont-57966* *nerdfont-ue26e* *nerdfont-*
+| 57967   | \ue26f  |      | *nerdfont-57967* *nerdfont-ue26f* *nerdfont-*
+| 57968   | \ue270  |      | *nerdfont-57968* *nerdfont-ue270* *nerdfont-*
+| 57969   | \ue271  |      | *nerdfont-57969* *nerdfont-ue271* *nerdfont-*
+| 57970   | \ue272  |      | *nerdfont-57970* *nerdfont-ue272* *nerdfont-*
+| 57971   | \ue273  |      | *nerdfont-57971* *nerdfont-ue273* *nerdfont-*
+| 57972   | \ue274  |      | *nerdfont-57972* *nerdfont-ue274* *nerdfont-*
+| 57973   | \ue275  |      | *nerdfont-57973* *nerdfont-ue275* *nerdfont-*
+| 57974   | \ue276  |      | *nerdfont-57974* *nerdfont-ue276* *nerdfont-*
+| 57975   | \ue277  |      | *nerdfont-57975* *nerdfont-ue277* *nerdfont-*
+| 57976   | \ue278  |      | *nerdfont-57976* *nerdfont-ue278* *nerdfont-*
+| 57977   | \ue279  |      | *nerdfont-57977* *nerdfont-ue279* *nerdfont-*
+| 57978   | \ue27a  |      | *nerdfont-57978* *nerdfont-ue27a* *nerdfont-*
+| 57979   | \ue27b  |      | *nerdfont-57979* *nerdfont-ue27b* *nerdfont-*
+| 57980   | \ue27c  |      | *nerdfont-57980* *nerdfont-ue27c* *nerdfont-*
+| 57981   | \ue27d  |      | *nerdfont-57981* *nerdfont-ue27d* *nerdfont-*
+| 57982   | \ue27e  |      | *nerdfont-57982* *nerdfont-ue27e* *nerdfont-*
+| 57983   | \ue27f  |      | *nerdfont-57983* *nerdfont-ue27f* *nerdfont-*
+| 57984   | \ue280  |      | *nerdfont-57984* *nerdfont-ue280* *nerdfont-*
+| 57985   | \ue281  |      | *nerdfont-57985* *nerdfont-ue281* *nerdfont-*
+| 57986   | \ue282  |      | *nerdfont-57986* *nerdfont-ue282* *nerdfont-*
+| 57987   | \ue283  |      | *nerdfont-57987* *nerdfont-ue283* *nerdfont-*
+| 57988   | \ue284  |      | *nerdfont-57988* *nerdfont-ue284* *nerdfont-*
+| 57989   | \ue285  |      | *nerdfont-57989* *nerdfont-ue285* *nerdfont-*
+| 57990   | \ue286  |      | *nerdfont-57990* *nerdfont-ue286* *nerdfont-*
+| 57991   | \ue287  |      | *nerdfont-57991* *nerdfont-ue287* *nerdfont-*
+| 57992   | \ue288  |      | *nerdfont-57992* *nerdfont-ue288* *nerdfont-*
+| 57993   | \ue289  |      | *nerdfont-57993* *nerdfont-ue289* *nerdfont-*
+| 57994   | \ue28a  |      | *nerdfont-57994* *nerdfont-ue28a* *nerdfont-*
+| 57995   | \ue28b  |      | *nerdfont-57995* *nerdfont-ue28b* *nerdfont-*
+| 57996   | \ue28c  |      | *nerdfont-57996* *nerdfont-ue28c* *nerdfont-*
+| 57997   | \ue28d  |      | *nerdfont-57997* *nerdfont-ue28d* *nerdfont-*
+| 57998   | \ue28e  |      | *nerdfont-57998* *nerdfont-ue28e* *nerdfont-*
+| 57999   | \ue28f  |      | *nerdfont-57999* *nerdfont-ue28f* *nerdfont-*
+| 58000   | \ue290  |      | *nerdfont-58000* *nerdfont-ue290* *nerdfont-*
+| 58001   | \ue291  |      | *nerdfont-58001* *nerdfont-ue291* *nerdfont-*
+| 58002   | \ue292  |      | *nerdfont-58002* *nerdfont-ue292* *nerdfont-*
+| 58003   | \ue293  |      | *nerdfont-58003* *nerdfont-ue293* *nerdfont-*
+| 58004   | \ue294  |      | *nerdfont-58004* *nerdfont-ue294* *nerdfont-*
+| 58005   | \ue295  |      | *nerdfont-58005* *nerdfont-ue295* *nerdfont-*
+| 58006   | \ue296  |      | *nerdfont-58006* *nerdfont-ue296* *nerdfont-*
+| 58007   | \ue297  |      | *nerdfont-58007* *nerdfont-ue297* *nerdfont-*
+| 58008   | \ue298  |      | *nerdfont-58008* *nerdfont-ue298* *nerdfont-*
+| 58009   | \ue299  |      | *nerdfont-58009* *nerdfont-ue299* *nerdfont-*
+| 58010   | \ue29a  |      | *nerdfont-58010* *nerdfont-ue29a* *nerdfont-*
+| 58011   | \ue29b  |      | *nerdfont-58011* *nerdfont-ue29b* *nerdfont-*
+| 58012   | \ue29c  |      | *nerdfont-58012* *nerdfont-ue29c* *nerdfont-*
+| 58013   | \ue29d  |      | *nerdfont-58013* *nerdfont-ue29d* *nerdfont-*
+| 58014   | \ue29e  |      | *nerdfont-58014* *nerdfont-ue29e* *nerdfont-*
+| 58015   | \ue29f  |      | *nerdfont-58015* *nerdfont-ue29f* *nerdfont-*
+| 58016   | \ue2a0  |      | *nerdfont-58016* *nerdfont-ue2a0* *nerdfont-*
+| 58017   | \ue2a1  |      | *nerdfont-58017* *nerdfont-ue2a1* *nerdfont-*
+| 58018   | \ue2a2  |      | *nerdfont-58018* *nerdfont-ue2a2* *nerdfont-*
+| 58019   | \ue2a3  |      | *nerdfont-58019* *nerdfont-ue2a3* *nerdfont-*
+| 58020   | \ue2a4  |      | *nerdfont-58020* *nerdfont-ue2a4* *nerdfont-*
+| 58021   | \ue2a5  |      | *nerdfont-58021* *nerdfont-ue2a5* *nerdfont-*
+| 58022   | \ue2a6  |      | *nerdfont-58022* *nerdfont-ue2a6* *nerdfont-*
+| 58023   | \ue2a7  |      | *nerdfont-58023* *nerdfont-ue2a7* *nerdfont-*
+| 58024   | \ue2a8  |      | *nerdfont-58024* *nerdfont-ue2a8* *nerdfont-*
+| 58025   | \ue2a9  |      | *nerdfont-58025* *nerdfont-ue2a9* *nerdfont-*
 
 vim: ft=help
